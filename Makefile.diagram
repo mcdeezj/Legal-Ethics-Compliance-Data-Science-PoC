@@ -1,0 +1,3 @@
+diagram:
+	@echo "Generating pipeline diagram"
+	@echo "main_pipeline -> data_generation -> model_training -> output_analysis" > flow_diagram.txt
