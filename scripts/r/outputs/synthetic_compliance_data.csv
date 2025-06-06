@@ -1,0 +1,1001 @@
+"product_name","region","regulatory_body","clinical_trial_phase","adverse_event_reports","manufacturing_site","inspection_findings","compliance_training","previous_violations","inspection_report_text","compliance_notes_text","compliance_issue"
+"Trulicity","North America","PMDA","II",5,"SiteC",2,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","North America","PMDA","IV",6,"SiteB",2,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","EMA","I",7,"SiteC",2,1,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",5,"SiteA",0,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Europe","EMA","I",8,"SiteC",1,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","EMA","II",4,"SiteA",1,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","FDA","II",10,"SiteB",3,1,1,"No findings.","Training records missing.",1
+"Trulicity","North America","FDA","I",7,"SiteA",1,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Asia","EMA","II",5,"SiteC",4,0,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","EMA","III",7,"SiteB",5,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",3,"SiteA",2,1,0,"No findings.","Training records missing.",0
+"Trulicity","North America","PMDA","II",3,"SiteB",2,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","EMA","I",6,"SiteC",1,0,1,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","FDA","IV",4,"SiteC",5,1,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","FDA","I",7,"SiteA",1,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","Asia","EMA","II",6,"SiteB",0,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","III",10,"SiteA",2,0,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","North America","PMDA","II",2,"SiteC",1,1,0,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","North America","PMDA","IV",7,"SiteC",3,1,0,"No findings.","All procedures followed.",1
+"Trulicity","Asia","EMA","I",5,"SiteA",3,1,2,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",8,"SiteA",2,0,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","PMDA","II",4,"SiteB",1,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","FDA","I",6,"SiteC",4,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","North America","PMDA","IV",3,"SiteC",5,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","FDA","III",2,"SiteA",3,0,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","EMA","I",3,"SiteC",1,0,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","Europe","FDA","I",3,"SiteB",1,1,0,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","North America","PMDA","IV",2,"SiteA",0,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Europe","FDA","II",10,"SiteC",1,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteB",2,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Asia","EMA","IV",6,"SiteB",2,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Asia","EMA","II",4,"SiteC",1,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","FDA","II",3,"SiteA",2,0,0,"No findings.","Training records missing.",1
+"Trulicity","Europe","FDA","IV",7,"SiteC",2,1,1,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteB",0,1,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","Europe","EMA","III",3,"SiteB",1,1,0,"No findings.","All procedures followed.",0
+"Trulicity","North America","EMA","II",3,"SiteB",1,0,1,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","IV",9,"SiteA",1,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","EMA","III",5,"SiteA",2,0,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Europe","PMDA","IV",6,"SiteB",1,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","FDA","IV",4,"SiteC",0,1,0,"No findings.","Training records missing.",0
+"Trulicity","Asia","PMDA","III",3,"SiteA",1,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","EMA","III",3,"SiteA",1,0,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","EMA","III",11,"SiteC",0,1,0,"No findings.","Training records missing.",1
+"Trulicity","Europe","FDA","II",8,"SiteC",3,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","FDA","IV",2,"SiteA",4,1,0,"No critical issues noted.","Training records missing.",0
+"Trulicity","Europe","FDA","I",5,"SiteB",1,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","FDA","I",8,"SiteB",1,1,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","Europe","FDA","III",7,"SiteC",1,1,1,"No findings.","Deviation due to site.",1
+"Trulicity","Asia","EMA","II",2,"SiteA",4,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","III",4,"SiteC",4,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","FDA","III",6,"SiteB",0,0,0,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","III",5,"SiteB",1,0,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","FDA","III",5,"SiteA",3,1,1,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","PMDA","I",7,"SiteA",1,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","EMA","IV",4,"SiteB",1,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Europe","PMDA","II",6,"SiteB",0,1,0,"No findings.","Docs not up to date.",0
+"Trulicity","North America","FDA","III",3,"SiteB",2,1,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","North America","PMDA","II",7,"SiteB",3,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",5,"SiteA",3,1,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","FDA","IV",1,"SiteB",1,1,2,"No findings.","Deviation due to site.",1
+"Trulicity","North America","PMDA","I",5,"SiteC",1,0,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","II",5,"SiteC",2,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","North America","PMDA","III",6,"SiteC",2,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","FDA","I",4,"SiteA",1,0,1,"No critical issues noted.","All procedures followed.",0
+"Trulicity","North America","PMDA","III",6,"SiteB",2,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Asia","EMA","III",3,"SiteC",2,1,0,"No findings.","QA pending review.",0
+"Trulicity","Asia","PMDA","IV",8,"SiteA",0,0,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","North America","EMA","IV",4,"SiteB",3,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","FDA","I",9,"SiteA",3,1,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Europe","EMA","I",9,"SiteA",0,0,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","North America","FDA","I",3,"SiteC",0,0,1,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",6,"SiteA",0,1,2,"Deviation found.","Docs not up to date.",1
+"Trulicity","Europe","FDA","II",9,"SiteA",4,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","II",5,"SiteB",1,1,0,"No findings.","All procedures followed.",0
+"Trulicity","North America","PMDA","II",5,"SiteC",4,1,0,"No findings.","Training records missing.",1
+"Trulicity","Europe","PMDA","III",7,"SiteC",1,0,0,"Deviation found.","All procedures followed.",0
+"Trulicity","North America","FDA","II",6,"SiteB",2,1,0,"No findings.","All procedures followed.",0
+"Trulicity","Europe","FDA","IV",4,"SiteB",4,0,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",6,"SiteA",1,1,0,"No findings.","Training records missing.",1
+"Trulicity","North America","FDA","IV",5,"SiteB",2,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",5,"SiteB",2,0,0,"No findings.","All procedures followed.",1
+"Trulicity","Asia","EMA","I",8,"SiteB",0,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",4,"SiteC",1,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","FDA","I",4,"SiteB",0,0,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Asia","FDA","III",4,"SiteC",2,1,1,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","North America","PMDA","III",3,"SiteC",1,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","North America","PMDA","III",9,"SiteB",2,0,1,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","FDA","I",4,"SiteC",5,1,1,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Asia","EMA","I",12,"SiteB",2,1,0,"No findings.","All procedures followed.",1
+"Trulicity","Europe","EMA","III",3,"SiteC",2,0,1,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","PMDA","I",7,"SiteB",5,0,1,"Deviation found.","Training records missing.",1
+"Trulicity","North America","FDA","III",5,"SiteC",1,0,3,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","FDA","I",7,"SiteA",1,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","III",6,"SiteC",2,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","FDA","I",5,"SiteB",1,0,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","PMDA","III",7,"SiteC",1,0,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","FDA","IV",2,"SiteC",0,1,0,"No findings.","Docs not up to date.",0
+"Trulicity","North America","EMA","II",9,"SiteB",3,0,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","FDA","IV",5,"SiteA",1,0,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",8,"SiteA",1,0,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",5,"SiteA",1,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Europe","FDA","II",2,"SiteB",0,0,1,"Deviation found.","All procedures followed.",0
+"Trulicity","North America","FDA","IV",5,"SiteC",3,1,1,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",10,"SiteC",1,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","PMDA","I",5,"SiteC",2,1,0,"No findings.","All procedures followed.",0
+"Trulicity","North America","EMA","II",5,"SiteA",1,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","North America","PMDA","IV",8,"SiteA",2,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",4,"SiteB",2,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","FDA","III",9,"SiteA",2,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","I",10,"SiteA",3,1,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","III",7,"SiteA",1,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","Europe","EMA","I",6,"SiteB",2,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","EMA","II",3,"SiteB",6,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",9,"SiteB",3,0,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","North America","EMA","II",5,"SiteA",3,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","FDA","I",5,"SiteC",1,1,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","EMA","IV",8,"SiteA",3,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","EMA","I",3,"SiteB",1,1,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",6,"SiteC",2,1,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","North America","FDA","IV",1,"SiteC",1,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","Europe","FDA","I",3,"SiteB",2,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","EMA","II",8,"SiteA",2,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","FDA","IV",4,"SiteA",3,0,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","I",3,"SiteB",1,1,0,"No critical issues noted.","All procedures followed.",0
+"Trulicity","Asia","EMA","IV",3,"SiteC",2,1,2,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Asia","FDA","III",7,"SiteB",1,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","PMDA","I",7,"SiteB",3,0,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",5,"SiteB",3,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",4,"SiteA",1,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","Europe","FDA","IV",6,"SiteA",3,0,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","North America","FDA","II",7,"SiteC",4,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","FDA","III",8,"SiteA",3,1,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","FDA","III",8,"SiteA",0,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","FDA","III",4,"SiteC",2,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","II",7,"SiteB",5,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","FDA","I",4,"SiteB",4,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","FDA","I",4,"SiteA",2,0,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Europe","FDA","I",4,"SiteB",3,0,1,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","EMA","III",3,"SiteB",2,0,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","PMDA","I",7,"SiteC",1,1,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","FDA","I",3,"SiteC",2,0,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","Europe","PMDA","III",4,"SiteA",4,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","FDA","I",5,"SiteB",1,1,0,"No critical issues noted.","Deviation due to site.",0
+"Trulicity","Asia","PMDA","II",4,"SiteB",1,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Europe","PMDA","III",4,"SiteB",1,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","III",7,"SiteB",2,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","PMDA","III",8,"SiteB",4,1,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","North America","EMA","I",7,"SiteA",2,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","FDA","II",5,"SiteB",5,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",7,"SiteB",0,1,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","North America","EMA","I",1,"SiteA",1,1,0,"No findings.","Docs not up to date.",0
+"Trulicity","Asia","EMA","II",5,"SiteC",2,1,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","PMDA","IV",7,"SiteB",2,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","I",7,"SiteA",0,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","EMA","I",10,"SiteC",1,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","EMA","IV",5,"SiteA",4,0,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","EMA","I",4,"SiteA",2,1,0,"No findings.","Training records missing.",1
+"Trulicity","Asia","EMA","IV",3,"SiteB",3,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","EMA","IV",6,"SiteA",2,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","FDA","IV",9,"SiteA",2,1,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","North America","EMA","III",4,"SiteA",1,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","I",1,"SiteB",2,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","North America","EMA","II",3,"SiteB",2,0,0,"No findings.","Docs not up to date.",0
+"Trulicity","Europe","FDA","III",7,"SiteC",1,1,1,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","EMA","III",4,"SiteC",5,0,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","North America","EMA","II",6,"SiteA",4,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","FDA","IV",4,"SiteC",1,0,0,"No findings.","QA pending review.",0
+"Trulicity","Asia","PMDA","II",5,"SiteA",2,1,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Europe","PMDA","II",4,"SiteB",1,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","EMA","I",4,"SiteB",5,1,2,"No findings.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","I",6,"SiteC",2,0,0,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","North America","EMA","IV",4,"SiteC",2,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","EMA","II",2,"SiteA",2,1,0,"No findings.","Training records missing.",0
+"Trulicity","Asia","PMDA","IV",9,"SiteA",5,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","FDA","II",7,"SiteC",2,1,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","FDA","I",5,"SiteC",2,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","Asia","FDA","IV",3,"SiteC",2,1,0,"No findings.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",4,"SiteB",1,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","EMA","I",4,"SiteA",2,0,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","Asia","EMA","IV",3,"SiteC",4,1,1,"Deviation found.","Training records missing.",0
+"Trulicity","Europe","EMA","II",6,"SiteB",2,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","North America","PMDA","III",4,"SiteC",4,1,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Asia","FDA","IV",7,"SiteB",2,0,1,"Deviation found.","Docs not up to date.",0
+"Trulicity","Asia","EMA","II",5,"SiteA",1,1,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Europe","EMA","II",2,"SiteB",3,1,0,"No findings.","All procedures followed.",0
+"Trulicity","Asia","PMDA","III",2,"SiteB",2,1,1,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","FDA","III",3,"SiteC",3,1,1,"No findings.","Deviation due to site.",1
+"Trulicity","North America","EMA","III",8,"SiteA",1,1,2,"No findings.","Training records missing.",1
+"Trulicity","North America","EMA","III",4,"SiteA",2,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",5,"SiteB",2,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","North America","PMDA","I",2,"SiteA",4,1,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","PMDA","IV",8,"SiteA",0,1,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","Europe","PMDA","III",5,"SiteB",2,0,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","FDA","II",7,"SiteC",3,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","PMDA","I",4,"SiteB",3,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","PMDA","III",8,"SiteA",3,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","EMA","II",10,"SiteB",2,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","II",2,"SiteC",0,1,1,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","FDA","II",2,"SiteB",1,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","PMDA","IV",6,"SiteB",2,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Asia","PMDA","I",4,"SiteC",3,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",4,"SiteB",2,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Asia","PMDA","I",2,"SiteA",0,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","North America","EMA","IV",5,"SiteA",1,0,1,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","EMA","II",3,"SiteC",1,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","North America","PMDA","III",4,"SiteB",2,1,1,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","PMDA","IV",8,"SiteA",3,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","II",5,"SiteA",2,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","EMA","II",2,"SiteC",4,0,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","FDA","II",5,"SiteB",2,0,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","FDA","I",8,"SiteB",0,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","FDA","III",1,"SiteB",1,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","Asia","EMA","II",4,"SiteA",4,0,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","FDA","II",7,"SiteC",1,0,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","Asia","EMA","II",6,"SiteB",0,0,0,"No critical issues noted.","Training records missing.",0
+"Trulicity","Asia","PMDA","III",5,"SiteB",1,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","III",3,"SiteC",1,1,0,"Deviation found.","Training records missing.",0
+"Trulicity","North America","EMA","II",3,"SiteB",1,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","EMA","IV",7,"SiteC",0,1,1,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Asia","EMA","I",3,"SiteC",1,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Europe","EMA","III",7,"SiteB",2,1,1,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","EMA","IV",3,"SiteA",2,0,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","PMDA","I",2,"SiteB",2,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Asia","FDA","I",2,"SiteC",0,1,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","North America","PMDA","II",7,"SiteA",2,0,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","North America","EMA","III",5,"SiteC",2,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","EMA","III",4,"SiteA",1,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",9,"SiteA",3,0,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","North America","PMDA","I",8,"SiteB",2,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","FDA","III",5,"SiteB",0,0,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Europe","FDA","I",4,"SiteC",2,1,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Asia","EMA","IV",6,"SiteA",4,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","EMA","IV",5,"SiteA",1,1,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","PMDA","I",2,"SiteB",3,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","IV",3,"SiteC",1,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",2,"SiteB",4,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",6,"SiteB",4,1,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","EMA","I",3,"SiteC",2,0,1,"No findings.","Training records missing.",1
+"Trulicity","Europe","FDA","IV",7,"SiteA",0,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","FDA","III",7,"SiteB",6,0,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",7,"SiteC",3,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","PMDA","I",3,"SiteC",3,1,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","III",3,"SiteA",3,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",6,"SiteC",2,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Asia","FDA","III",8,"SiteB",4,1,1,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","FDA","IV",4,"SiteB",2,1,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","Europe","EMA","II",4,"SiteA",1,0,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","North America","EMA","I",6,"SiteB",1,0,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Europe","PMDA","I",5,"SiteC",3,0,0,"No findings.","QA pending review.",1
+"Trulicity","North America","FDA","III",3,"SiteA",3,1,0,"No critical issues noted.","Training records missing.",0
+"Trulicity","Europe","FDA","III",8,"SiteA",2,0,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","North America","FDA","II",3,"SiteB",2,1,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Asia","PMDA","II",6,"SiteC",1,1,1,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","FDA","I",5,"SiteC",4,1,1,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","FDA","II",4,"SiteA",3,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",4,"SiteB",3,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",6,"SiteA",2,0,0,"No findings.","Training records missing.",1
+"Trulicity","Europe","PMDA","I",1,"SiteC",1,1,2,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","FDA","IV",4,"SiteA",1,0,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","North America","EMA","II",6,"SiteB",1,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Asia","FDA","III",4,"SiteA",1,1,0,"Deviation found.","QA pending review.",0
+"Trulicity","North America","PMDA","II",1,"SiteB",4,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Asia","EMA","IV",9,"SiteC",1,1,0,"No findings.","QA pending review.",1
+"Trulicity","Europe","PMDA","IV",4,"SiteA",2,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","North America","FDA","III",8,"SiteB",3,0,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","EMA","I",5,"SiteA",1,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","EMA","II",5,"SiteC",2,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","FDA","III",3,"SiteC",1,0,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","North America","FDA","IV",2,"SiteA",0,0,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Asia","EMA","I",2,"SiteA",0,1,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","Europe","EMA","I",9,"SiteC",2,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","II",4,"SiteB",2,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","North America","FDA","I",7,"SiteC",1,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","III",5,"SiteB",2,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Asia","EMA","III",2,"SiteB",3,0,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","FDA","II",3,"SiteA",4,1,0,"No findings.","Training records missing.",1
+"Trulicity","Asia","EMA","II",7,"SiteC",0,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","North America","FDA","IV",2,"SiteC",5,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Asia","FDA","II",7,"SiteB",0,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",2,"SiteA",0,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","EMA","IV",6,"SiteA",1,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","IV",4,"SiteA",1,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","PMDA","II",6,"SiteA",1,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","I",4,"SiteB",1,1,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","Europe","EMA","I",6,"SiteC",3,0,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","I",8,"SiteA",2,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","EMA","III",6,"SiteB",0,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","PMDA","II",2,"SiteB",4,1,1,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",7,"SiteC",1,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","PMDA","III",6,"SiteC",2,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","PMDA","I",4,"SiteA",2,1,1,"No findings.","All procedures followed.",1
+"Trulicity","Europe","FDA","I",4,"SiteB",2,1,1,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","Asia","PMDA","IV",5,"SiteB",1,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","North America","PMDA","II",5,"SiteA",7,0,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","FDA","I",5,"SiteC",2,1,0,"No findings.","QA pending review.",1
+"Trulicity","Europe","PMDA","I",3,"SiteC",1,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","EMA","II",5,"SiteA",0,1,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","FDA","IV",7,"SiteA",2,0,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","FDA","IV",3,"SiteB",1,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","North America","PMDA","III",2,"SiteA",0,0,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","Asia","PMDA","III",5,"SiteC",1,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","EMA","I",5,"SiteA",0,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","North America","FDA","I",4,"SiteB",0,1,1,"Untrained personnel.","QA pending review.",0
+"Trulicity","North America","EMA","III",5,"SiteB",1,1,1,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","FDA","IV",6,"SiteA",2,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","PMDA","II",7,"SiteC",4,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","FDA","IV",5,"SiteA",1,0,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Europe","EMA","II",4,"SiteB",1,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","I",3,"SiteB",1,1,0,"No critical issues noted.","All procedures followed.",0
+"Trulicity","Europe","PMDA","II",6,"SiteB",4,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","FDA","I",6,"SiteA",4,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","PMDA","III",6,"SiteB",3,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","EMA","III",6,"SiteC",3,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","IV",3,"SiteA",2,1,0,"No findings.","All procedures followed.",0
+"Trulicity","North America","FDA","IV",4,"SiteC",1,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","Asia","EMA","II",5,"SiteA",2,0,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","FDA","I",4,"SiteC",3,1,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","North America","FDA","IV",5,"SiteA",2,0,1,"Deviation found.","Docs not up to date.",1
+"Trulicity","Asia","EMA","III",10,"SiteC",1,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","EMA","II",8,"SiteC",3,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","North America","PMDA","IV",5,"SiteB",1,1,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","North America","FDA","III",5,"SiteC",2,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","North America","PMDA","II",4,"SiteB",2,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Europe","EMA","I",5,"SiteB",0,1,1,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","FDA","III",4,"SiteB",2,0,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","North America","EMA","III",11,"SiteC",2,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","FDA","II",6,"SiteA",2,0,1,"No critical issues noted.","Training records missing.",0
+"Trulicity","North America","FDA","IV",6,"SiteA",3,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","FDA","III",6,"SiteA",1,1,1,"No findings.","Training records missing.",0
+"Trulicity","Europe","PMDA","III",6,"SiteA",2,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",6,"SiteC",2,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",6,"SiteA",2,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Europe","FDA","III",4,"SiteC",3,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","FDA","II",9,"SiteA",1,0,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","Europe","FDA","II",4,"SiteA",1,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","FDA","III",7,"SiteB",4,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","FDA","II",2,"SiteB",4,1,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","North America","EMA","IV",6,"SiteB",0,1,0,"No critical issues noted.","All procedures followed.",0
+"Trulicity","Asia","PMDA","IV",6,"SiteA",1,0,1,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","I",4,"SiteB",1,0,0,"No findings.","Training records missing.",1
+"Trulicity","Asia","FDA","II",10,"SiteC",5,0,1,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","FDA","I",6,"SiteB",4,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","PMDA","II",1,"SiteB",3,1,0,"No critical issues noted.","Training records missing.",0
+"Trulicity","Europe","PMDA","I",5,"SiteA",1,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",6,"SiteC",1,0,0,"No findings.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",1,"SiteA",3,0,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","Europe","PMDA","II",2,"SiteA",0,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",2,"SiteC",5,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","EMA","I",4,"SiteA",1,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","North America","FDA","I",1,"SiteB",1,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","FDA","III",5,"SiteB",1,0,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Asia","EMA","I",8,"SiteC",2,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","FDA","II",5,"SiteA",4,1,1,"No findings.","Training records missing.",1
+"Trulicity","Asia","PMDA","I",6,"SiteC",4,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","FDA","I",4,"SiteC",2,0,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","Europe","FDA","I",1,"SiteA",2,0,1,"Deviation found.","Docs not up to date.",1
+"Trulicity","North America","PMDA","III",6,"SiteA",0,1,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","I",6,"SiteA",3,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",4,"SiteB",2,0,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","IV",5,"SiteC",0,1,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","North America","FDA","IV",5,"SiteB",1,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","PMDA","III",4,"SiteB",6,1,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","FDA","II",7,"SiteA",0,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","FDA","III",3,"SiteB",0,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","North America","FDA","II",7,"SiteC",3,1,2,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",2,"SiteA",1,0,0,"No findings.","Docs not up to date.",0
+"Trulicity","Europe","EMA","I",5,"SiteB",3,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","North America","PMDA","I",7,"SiteB",0,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","PMDA","I",7,"SiteB",1,1,1,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Europe","EMA","I",4,"SiteA",3,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Asia","FDA","II",8,"SiteA",4,0,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","III",5,"SiteB",4,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","EMA","II",4,"SiteC",1,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Europe","EMA","IV",6,"SiteA",5,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","PMDA","III",3,"SiteC",0,1,2,"No findings.","Deviation due to site.",0
+"Trulicity","North America","EMA","III",6,"SiteB",1,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","EMA","IV",3,"SiteA",3,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","PMDA","III",4,"SiteA",5,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","PMDA","II",5,"SiteB",1,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",4,"SiteA",2,1,0,"No findings.","QA pending review.",0
+"Trulicity","Europe","PMDA","I",8,"SiteA",2,0,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",5,"SiteC",1,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Asia","PMDA","I",4,"SiteA",1,1,1,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","Asia","EMA","I",2,"SiteC",3,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",3,"SiteC",0,1,0,"No findings.","Docs not up to date.",0
+"Trulicity","North America","EMA","I",6,"SiteB",4,0,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","PMDA","III",6,"SiteC",2,1,2,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","PMDA","II",5,"SiteC",0,0,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","Asia","EMA","IV",4,"SiteA",1,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","IV",5,"SiteC",0,1,1,"No findings.","Docs not up to date.",0
+"Trulicity","North America","FDA","III",10,"SiteB",1,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","IV",4,"SiteC",2,0,1,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",7,"SiteA",3,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","EMA","I",2,"SiteB",3,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","IV",4,"SiteB",0,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","FDA","III",1,"SiteB",1,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","FDA","II",1,"SiteB",1,1,0,"Deviation found.","QA pending review.",0
+"Trulicity","North America","FDA","III",2,"SiteB",1,1,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Europe","EMA","IV",9,"SiteB",4,1,0,"No findings.","All procedures followed.",1
+"Trulicity","Europe","EMA","I",6,"SiteB",4,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",3,"SiteC",2,1,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","North America","PMDA","III",4,"SiteC",5,1,1,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","FDA","I",4,"SiteA",0,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","FDA","III",3,"SiteA",2,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","North America","PMDA","III",6,"SiteB",2,1,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","Europe","EMA","II",3,"SiteC",3,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","FDA","II",7,"SiteB",2,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","III",6,"SiteB",1,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","North America","PMDA","II",5,"SiteB",1,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","III",2,"SiteB",1,0,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",6,"SiteA",1,1,1,"Documentation errors noted.","QA pending review.",0
+"Trulicity","North America","PMDA","I",7,"SiteB",3,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","FDA","I",4,"SiteA",2,0,1,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","PMDA","I",6,"SiteC",2,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","PMDA","IV",1,"SiteA",3,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",3,"SiteC",2,0,0,"Deviation found.","QA pending review.",1
+"Trulicity","Europe","EMA","IV",6,"SiteA",1,1,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",5,"SiteC",0,1,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Europe","FDA","I",5,"SiteA",3,1,1,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","EMA","III",7,"SiteB",2,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","IV",8,"SiteA",0,0,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","North America","EMA","IV",8,"SiteC",1,1,0,"No findings.","Training records missing.",1
+"Trulicity","North America","FDA","I",8,"SiteA",5,1,1,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","FDA","III",8,"SiteB",1,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","PMDA","I",5,"SiteB",3,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","PMDA","II",6,"SiteC",5,1,1,"No critical issues noted.","QA pending review.",1
+"Trulicity","Asia","EMA","I",2,"SiteB",1,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","II",4,"SiteB",0,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","FDA","III",5,"SiteA",2,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","I",6,"SiteC",1,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Europe","EMA","IV",4,"SiteA",0,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","PMDA","III",4,"SiteA",0,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","I",3,"SiteC",1,1,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","North America","FDA","II",3,"SiteC",1,1,0,"No findings.","All procedures followed.",0
+"Trulicity","North America","FDA","II",5,"SiteB",2,0,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",7,"SiteB",1,0,0,"No findings.","Training records missing.",1
+"Trulicity","North America","FDA","II",5,"SiteB",0,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","Europe","EMA","III",6,"SiteB",3,0,1,"No findings.","All procedures followed.",1
+"Trulicity","Asia","PMDA","I",6,"SiteC",3,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","I",8,"SiteA",1,0,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","I",4,"SiteA",3,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","FDA","IV",9,"SiteA",4,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","I",6,"SiteB",2,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","II",8,"SiteA",5,1,3,"No findings.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",4,"SiteC",1,1,0,"No findings.","QA pending review.",0
+"Trulicity","Asia","PMDA","III",7,"SiteB",1,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","III",3,"SiteB",3,1,0,"No findings.","All procedures followed.",0
+"Trulicity","Europe","EMA","III",5,"SiteA",2,0,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","North America","EMA","III",6,"SiteB",2,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Asia","EMA","I",5,"SiteC",1,1,2,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","III",9,"SiteC",5,0,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","III",4,"SiteC",3,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","North America","FDA","IV",0,"SiteB",3,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","IV",3,"SiteB",2,1,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",1,"SiteA",5,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","FDA","I",4,"SiteC",1,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Asia","EMA","III",2,"SiteC",1,0,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","EMA","II",6,"SiteA",2,1,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","Asia","FDA","IV",6,"SiteA",4,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","FDA","IV",6,"SiteC",2,0,1,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","FDA","III",8,"SiteC",3,0,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","PMDA","IV",2,"SiteB",0,1,1,"Deviation found.","QA pending review.",0
+"Trulicity","Europe","FDA","IV",4,"SiteC",3,1,1,"Deviation found.","Docs not up to date.",1
+"Trulicity","North America","EMA","IV",8,"SiteB",3,0,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Asia","FDA","III",10,"SiteB",5,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","FDA","II",8,"SiteA",3,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","IV",6,"SiteC",4,0,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",8,"SiteB",1,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Europe","EMA","I",6,"SiteA",4,1,1,"Deviation found.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",2,"SiteC",2,1,0,"No findings.","Training records missing.",0
+"Trulicity","North America","FDA","IV",5,"SiteA",4,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","PMDA","II",4,"SiteA",0,1,1,"No findings.","Training records missing.",0
+"Trulicity","North America","FDA","II",6,"SiteA",1,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",4,"SiteA",1,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","III",6,"SiteA",3,1,0,"No findings.","Training records missing.",1
+"Trulicity","Europe","PMDA","II",4,"SiteA",3,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","FDA","II",4,"SiteC",4,1,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","North America","PMDA","I",4,"SiteB",2,0,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","I",3,"SiteC",0,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","EMA","III",4,"SiteA",2,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","PMDA","IV",4,"SiteC",4,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","FDA","I",3,"SiteA",0,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","FDA","I",3,"SiteC",1,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Asia","PMDA","I",4,"SiteA",3,1,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","FDA","IV",5,"SiteB",0,1,0,"Deviation found.","QA pending review.",0
+"Trulicity","North America","FDA","I",4,"SiteC",2,0,0,"Deviation found.","All procedures followed.",0
+"Trulicity","Europe","FDA","III",9,"SiteB",2,0,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",5,"SiteB",2,0,0,"No findings.","Docs not up to date.",0
+"Trulicity","Asia","FDA","II",5,"SiteC",0,1,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","PMDA","II",6,"SiteC",1,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","EMA","I",4,"SiteC",1,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","III",7,"SiteB",0,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","IV",6,"SiteA",3,0,1,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","II",3,"SiteA",0,0,1,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","PMDA","III",4,"SiteC",2,0,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","FDA","III",5,"SiteC",1,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",8,"SiteB",4,0,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","EMA","II",11,"SiteA",0,0,1,"Deviation found.","QA pending review.",1
+"Trulicity","Asia","FDA","III",4,"SiteB",2,1,0,"No findings.","Training records missing.",1
+"Trulicity","Europe","PMDA","II",4,"SiteB",2,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","FDA","III",6,"SiteA",0,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","III",7,"SiteC",1,1,0,"No critical issues noted.","All procedures followed.",0
+"Trulicity","Asia","PMDA","II",3,"SiteB",0,1,0,"No findings.","All procedures followed.",0
+"Trulicity","North America","FDA","IV",3,"SiteC",3,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","FDA","IV",3,"SiteC",2,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","EMA","II",7,"SiteB",2,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","Europe","FDA","II",2,"SiteC",1,1,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","III",6,"SiteB",3,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","II",5,"SiteC",3,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","FDA","IV",3,"SiteA",0,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","PMDA","I",3,"SiteC",2,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","FDA","III",7,"SiteA",2,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",6,"SiteB",0,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",8,"SiteC",3,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","EMA","I",6,"SiteA",1,0,0,"Deviation found.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",7,"SiteC",3,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",9,"SiteC",3,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","FDA","II",0,"SiteA",2,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","North America","FDA","III",5,"SiteB",1,0,1,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Europe","FDA","I",5,"SiteC",0,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Asia","FDA","I",3,"SiteB",0,1,0,"No critical issues noted.","Training records missing.",0
+"Trulicity","North America","EMA","II",9,"SiteA",2,0,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",10,"SiteA",3,0,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","FDA","I",4,"SiteB",0,1,1,"No findings.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",7,"SiteC",2,1,1,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteB",1,0,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","II",5,"SiteC",1,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","FDA","I",4,"SiteB",2,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","FDA","I",3,"SiteA",2,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","PMDA","II",1,"SiteC",3,0,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Asia","FDA","II",4,"SiteB",2,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","North America","FDA","IV",3,"SiteB",2,1,0,"Deviation found.","All procedures followed.",0
+"Trulicity","Asia","FDA","I",9,"SiteB",1,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","FDA","IV",5,"SiteA",1,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","North America","FDA","II",3,"SiteC",2,1,1,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","PMDA","II",7,"SiteB",2,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","EMA","I",6,"SiteA",1,0,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",5,"SiteC",4,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","PMDA","I",6,"SiteB",1,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","IV",6,"SiteC",1,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","III",6,"SiteC",3,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","IV",3,"SiteA",2,1,1,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Asia","FDA","III",5,"SiteB",1,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","III",8,"SiteB",2,0,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","PMDA","II",4,"SiteB",0,0,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","North America","PMDA","II",8,"SiteC",1,0,0,"No findings.","QA pending review.",0
+"Trulicity","Europe","FDA","IV",6,"SiteC",1,0,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",6,"SiteA",1,1,0,"Deviation found.","QA pending review.",0
+"Trulicity","Europe","FDA","I",4,"SiteC",0,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","EMA","I",4,"SiteC",3,1,0,"No findings.","All procedures followed.",1
+"Trulicity","Asia","EMA","I",6,"SiteB",1,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Asia","FDA","III",7,"SiteA",4,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","FDA","II",4,"SiteA",1,0,1,"Documentation errors noted.","Training records missing.",0
+"Trulicity","Europe","PMDA","IV",4,"SiteB",1,0,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","FDA","IV",7,"SiteB",8,0,1,"No findings.","QA pending review.",1
+"Trulicity","Asia","FDA","III",3,"SiteB",4,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","I",3,"SiteA",3,0,2,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",1,"SiteA",0,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Asia","FDA","IV",4,"SiteC",2,1,2,"No findings.","Training records missing.",1
+"Trulicity","Asia","EMA","II",5,"SiteB",0,1,1,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","PMDA","IV",7,"SiteA",2,0,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Asia","EMA","II",1,"SiteA",2,0,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","Asia","FDA","I",8,"SiteC",1,1,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","North America","FDA","I",5,"SiteB",2,1,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","EMA","III",5,"SiteA",0,0,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","EMA","IV",6,"SiteC",2,1,1,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","PMDA","IV",4,"SiteB",5,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","Europe","FDA","IV",7,"SiteC",1,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","FDA","II",6,"SiteA",1,0,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","PMDA","II",7,"SiteC",0,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","North America","EMA","IV",6,"SiteC",1,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","Asia","PMDA","I",6,"SiteB",2,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Europe","FDA","IV",8,"SiteB",1,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","FDA","IV",3,"SiteC",1,1,1,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","North America","PMDA","I",10,"SiteA",4,0,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",7,"SiteC",4,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","IV",5,"SiteC",3,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","II",5,"SiteC",4,1,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Europe","EMA","I",8,"SiteB",4,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","III",1,"SiteC",1,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Asia","PMDA","IV",6,"SiteA",2,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","North America","EMA","II",5,"SiteC",4,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","FDA","I",6,"SiteA",2,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","North America","FDA","IV",1,"SiteA",4,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",6,"SiteC",1,0,1,"Deviation found.","Deviation due to site.",0
+"Trulicity","Europe","FDA","IV",3,"SiteB",0,1,1,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Europe","EMA","III",3,"SiteC",0,1,1,"No critical issues noted.","QA pending review.",0
+"Trulicity","North America","EMA","III",4,"SiteC",3,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","North America","FDA","IV",5,"SiteC",2,0,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Asia","FDA","III",4,"SiteA",0,0,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","EMA","I",3,"SiteB",1,1,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","Asia","FDA","I",7,"SiteC",2,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","FDA","II",6,"SiteC",1,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",5,"SiteB",1,1,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","North America","EMA","I",3,"SiteC",3,1,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","EMA","II",3,"SiteC",2,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","FDA","II",8,"SiteA",4,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","EMA","III",3,"SiteC",3,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","IV",8,"SiteA",6,1,2,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","FDA","III",4,"SiteA",2,1,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","PMDA","III",8,"SiteC",3,1,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","FDA","I",5,"SiteC",0,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","PMDA","III",6,"SiteB",2,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","III",6,"SiteB",4,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","EMA","II",3,"SiteC",1,0,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","III",4,"SiteC",0,1,2,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Europe","EMA","II",4,"SiteC",2,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","PMDA","I",4,"SiteC",4,1,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","North America","PMDA","IV",4,"SiteB",5,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","EMA","I",6,"SiteC",3,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","IV",2,"SiteB",2,1,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Asia","EMA","IV",3,"SiteC",2,0,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","FDA","I",2,"SiteC",5,1,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","North America","PMDA","I",4,"SiteA",0,1,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Asia","PMDA","III",8,"SiteC",2,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","I",5,"SiteA",0,1,1,"No findings.","Training records missing.",1
+"Trulicity","North America","FDA","III",4,"SiteC",2,0,2,"No findings.","QA pending review.",1
+"Trulicity","Europe","FDA","IV",3,"SiteC",0,1,0,"No findings.","Docs not up to date.",0
+"Trulicity","North America","FDA","I",7,"SiteC",6,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteA",0,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","I",2,"SiteA",2,1,1,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Europe","FDA","II",4,"SiteC",0,1,0,"No critical issues noted.","All procedures followed.",0
+"Trulicity","North America","EMA","IV",8,"SiteB",0,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","FDA","I",3,"SiteA",2,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","IV",4,"SiteB",1,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","II",5,"SiteB",2,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","III",9,"SiteA",1,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","PMDA","I",2,"SiteA",1,1,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","Europe","EMA","III",1,"SiteB",2,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","EMA","III",6,"SiteC",3,1,0,"No findings.","QA pending review.",1
+"Trulicity","North America","PMDA","I",2,"SiteA",1,1,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","Asia","EMA","I",4,"SiteA",1,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","IV",3,"SiteB",2,0,1,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Asia","PMDA","IV",7,"SiteB",1,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","III",3,"SiteB",5,1,0,"No findings.","Training records missing.",1
+"Trulicity","North America","EMA","II",6,"SiteA",1,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","Asia","FDA","IV",8,"SiteA",1,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",4,"SiteB",0,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","North America","EMA","III",6,"SiteC",1,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","I",4,"SiteB",5,1,0,"No critical issues noted.","Deviation due to site.",0
+"Trulicity","Asia","PMDA","IV",4,"SiteA",1,1,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","Asia","FDA","III",6,"SiteA",5,1,0,"No findings.","QA pending review.",1
+"Trulicity","Europe","FDA","III",3,"SiteB",3,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","I",7,"SiteA",0,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",5,"SiteA",2,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","FDA","I",6,"SiteA",1,1,1,"No findings.","Training records missing.",0
+"Trulicity","Europe","FDA","II",5,"SiteB",2,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Asia","FDA","IV",6,"SiteA",0,1,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","North America","PMDA","I",6,"SiteB",4,1,1,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Asia","EMA","IV",1,"SiteA",2,1,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Asia","FDA","I",7,"SiteA",1,1,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","PMDA","IV",5,"SiteA",2,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",4,"SiteA",5,1,1,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","IV",2,"SiteC",1,0,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",7,"SiteA",0,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","Asia","FDA","II",5,"SiteB",0,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","North America","FDA","I",9,"SiteA",2,0,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","EMA","I",3,"SiteC",1,1,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","EMA","I",6,"SiteC",3,1,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Asia","FDA","I",5,"SiteA",4,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","EMA","II",8,"SiteA",4,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","I",2,"SiteB",0,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Asia","FDA","III",6,"SiteB",0,0,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","EMA","II",4,"SiteC",1,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","FDA","I",7,"SiteA",1,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","Asia","PMDA","II",9,"SiteB",2,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",4,"SiteB",0,1,0,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","North America","PMDA","III",9,"SiteB",4,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","FDA","IV",6,"SiteC",1,0,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","FDA","I",0,"SiteC",1,0,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","Asia","EMA","IV",6,"SiteC",1,0,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","North America","EMA","IV",2,"SiteA",0,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","EMA","IV",2,"SiteC",3,1,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","North America","FDA","III",2,"SiteA",7,1,0,"No findings.","QA pending review.",1
+"Trulicity","North America","PMDA","I",10,"SiteA",2,0,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","PMDA","II",2,"SiteA",1,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Europe","EMA","III",4,"SiteB",1,1,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","North America","EMA","II",10,"SiteB",4,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","FDA","II",1,"SiteC",4,0,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","PMDA","III",7,"SiteC",1,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","II",6,"SiteB",2,1,2,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","IV",5,"SiteB",2,0,1,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","I",7,"SiteC",4,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",7,"SiteA",1,0,0,"Data integrity concerns.","Deviation due to site.",0
+"Trulicity","Asia","FDA","III",5,"SiteB",3,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","North America","EMA","III",11,"SiteB",2,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","FDA","II",5,"SiteA",3,1,0,"Deviation found.","QA pending review.",0
+"Trulicity","Europe","EMA","II",6,"SiteB",2,0,1,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","FDA","II",7,"SiteC",3,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",9,"SiteB",0,0,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","EMA","II",5,"SiteB",1,1,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","EMA","III",3,"SiteB",2,1,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","Asia","EMA","IV",3,"SiteA",0,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","III",3,"SiteA",2,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","PMDA","III",5,"SiteA",3,0,0,"No findings.","All procedures followed.",1
+"Trulicity","Asia","PMDA","III",7,"SiteB",3,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","EMA","IV",8,"SiteC",0,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","North America","FDA","III",7,"SiteB",1,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","EMA","I",5,"SiteA",1,1,1,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","North America","PMDA","II",7,"SiteA",5,1,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","PMDA","I",6,"SiteB",2,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","IV",6,"SiteC",3,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Asia","FDA","III",11,"SiteB",3,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","PMDA","II",4,"SiteB",1,1,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","Europe","PMDA","IV",4,"SiteA",3,0,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","III",7,"SiteB",1,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","PMDA","III",3,"SiteA",0,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","PMDA","III",9,"SiteA",3,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","EMA","IV",8,"SiteC",2,0,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","EMA","IV",8,"SiteC",2,1,0,"No findings.","QA pending review.",1
+"Trulicity","Europe","EMA","I",2,"SiteA",0,1,0,"Untrained personnel.","QA pending review.",0
+"Trulicity","Asia","EMA","III",2,"SiteA",0,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","EMA","II",9,"SiteB",6,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","FDA","IV",6,"SiteC",0,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","I",4,"SiteB",1,1,0,"No findings.","Deviation due to site.",0
+"Trulicity","Europe","FDA","III",5,"SiteB",3,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Asia","PMDA","II",5,"SiteB",5,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","PMDA","II",5,"SiteB",2,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Europe","FDA","III",10,"SiteC",1,1,0,"Deviation found.","All procedures followed.",0
+"Trulicity","Asia","PMDA","III",4,"SiteB",4,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","North America","FDA","III",4,"SiteB",3,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","North America","PMDA","II",2,"SiteA",0,0,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Asia","EMA","I",4,"SiteA",1,1,0,"No findings.","QA pending review.",0
+"Trulicity","Europe","FDA","I",6,"SiteC",4,0,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","EMA","II",2,"SiteB",2,1,0,"No findings.","Training records missing.",0
+"Trulicity","North America","PMDA","I",8,"SiteA",1,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","EMA","I",2,"SiteB",3,1,0,"Deviation found.","Docs not up to date.",0
+"Trulicity","Europe","PMDA","II",9,"SiteA",1,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","FDA","IV",3,"SiteA",4,0,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","EMA","II",6,"SiteB",0,0,1,"Deviation found.","QA pending review.",0
+"Trulicity","Asia","EMA","IV",6,"SiteB",1,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Asia","PMDA","IV",3,"SiteA",2,0,1,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","EMA","I",2,"SiteA",0,1,1,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",4,"SiteC",0,1,0,"No findings.","All procedures followed.",0
+"Trulicity","Asia","PMDA","II",5,"SiteB",0,1,0,"No findings.","QA pending review.",0
+"Trulicity","Asia","FDA","III",4,"SiteA",4,0,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","IV",5,"SiteB",2,1,1,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","Asia","FDA","IV",6,"SiteB",1,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","PMDA","III",4,"SiteB",2,1,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","North America","EMA","I",4,"SiteA",3,1,0,"No findings.","All procedures followed.",0
+"Trulicity","Asia","FDA","III",7,"SiteA",1,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","FDA","IV",13,"SiteC",2,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","North America","FDA","II",6,"SiteB",2,1,1,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","Asia","FDA","III",4,"SiteA",1,1,0,"No critical issues noted.","Deviation due to site.",0
+"Trulicity","Europe","PMDA","III",5,"SiteA",1,1,0,"No findings.","All procedures followed.",1
+"Trulicity","Europe","FDA","III",5,"SiteB",0,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","Europe","EMA","II",5,"SiteC",1,0,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","North America","EMA","IV",4,"SiteB",1,0,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","PMDA","II",2,"SiteA",6,1,1,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Europe","FDA","I",3,"SiteA",0,1,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","North America","EMA","III",9,"SiteC",2,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","I",7,"SiteB",0,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","III",6,"SiteC",4,1,1,"Deviation found.","All procedures followed.",0
+"Trulicity","Asia","FDA","IV",4,"SiteC",2,1,0,"Deviation found.","Training records missing.",0
+"Trulicity","Asia","PMDA","IV",5,"SiteA",7,0,2,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",5,"SiteA",1,0,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","II",4,"SiteC",0,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Asia","PMDA","I",4,"SiteC",4,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","EMA","II",3,"SiteC",2,1,1,"No findings.","Training records missing.",1
+"Trulicity","North America","PMDA","II",0,"SiteC",3,1,1,"No findings.","Training records missing.",0
+"Trulicity","Europe","EMA","II",8,"SiteB",2,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","EMA","III",6,"SiteA",0,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","FDA","IV",5,"SiteB",4,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","IV",5,"SiteC",3,1,0,"No findings.","Docs not up to date.",0
+"Trulicity","Europe","EMA","III",2,"SiteB",1,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","FDA","III",3,"SiteC",4,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","II",7,"SiteC",2,1,1,"No findings.","Training records missing.",1
+"Trulicity","Asia","EMA","IV",8,"SiteC",2,1,0,"Documentation errors noted.","Docs not up to date.",1
+"Trulicity","North America","FDA","III",7,"SiteA",2,0,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","FDA","III",2,"SiteA",0,1,0,"Deviation found.","Training records missing.",0
+"Trulicity","North America","PMDA","III",4,"SiteA",2,0,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","FDA","IV",1,"SiteC",3,0,1,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","FDA","IV",3,"SiteC",1,1,1,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","FDA","I",3,"SiteA",4,1,1,"No findings.","QA pending review.",1
+"Trulicity","Asia","FDA","I",3,"SiteA",6,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","EMA","I",2,"SiteB",1,0,0,"No findings.","QA pending review.",1
+"Trulicity","North America","EMA","IV",6,"SiteB",0,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","I",7,"SiteA",2,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","EMA","IV",5,"SiteA",1,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Europe","FDA","I",5,"SiteB",4,1,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteB",2,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","II",4,"SiteB",4,1,1,"No critical issues noted.","Deviation due to site.",0
+"Trulicity","Europe","PMDA","I",5,"SiteC",2,1,1,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","II",5,"SiteB",2,1,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","EMA","I",6,"SiteA",0,1,1,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","FDA","II",3,"SiteC",5,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","EMA","III",5,"SiteB",2,1,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","Europe","PMDA","III",5,"SiteC",2,0,0,"Documentation errors noted.","QA pending review.",0
+"Trulicity","Asia","EMA","II",8,"SiteB",0,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","North America","FDA","I",5,"SiteC",1,0,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","Asia","EMA","I",10,"SiteA",3,0,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Europe","EMA","III",5,"SiteA",1,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","II",7,"SiteA",1,0,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",5,"SiteA",3,1,1,"No findings.","Deviation due to site.",1
+"Trulicity","North America","PMDA","I",1,"SiteA",0,1,1,"No findings.","Training records missing.",0
+"Trulicity","Europe","PMDA","IV",3,"SiteA",3,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","EMA","III",8,"SiteA",2,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","FDA","II",7,"SiteB",4,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","North America","FDA","III",3,"SiteA",0,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",2,"SiteB",4,0,0,"No findings.","QA pending review.",1
+"Trulicity","North America","EMA","II",2,"SiteC",2,1,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","Europe","FDA","I",11,"SiteB",2,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","FDA","IV",6,"SiteC",1,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","III",9,"SiteC",2,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Europe","EMA","IV",5,"SiteC",1,0,1,"Deviation found.","QA pending review.",1
+"Trulicity","North America","PMDA","I",6,"SiteB",2,0,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Asia","EMA","I",5,"SiteA",0,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",2,"SiteA",2,1,1,"No critical issues noted.","Training records missing.",0
+"Trulicity","Europe","FDA","I",4,"SiteA",0,0,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","PMDA","III",6,"SiteC",5,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","FDA","III",7,"SiteB",4,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","FDA","IV",2,"SiteA",0,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","North America","EMA","III",6,"SiteA",5,0,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","FDA","II",4,"SiteB",4,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","FDA","III",3,"SiteA",4,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","North America","PMDA","III",7,"SiteB",1,1,0,"Deviation found.","Training records missing.",1
+"Trulicity","Asia","PMDA","I",2,"SiteB",2,1,0,"No findings.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",7,"SiteB",1,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","II",2,"SiteC",2,1,0,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Asia","EMA","IV",5,"SiteB",3,1,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",5,"SiteA",2,1,2,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","PMDA","II",4,"SiteA",1,1,0,"No findings.","Training records missing.",0
+"Trulicity","North America","FDA","I",6,"SiteB",1,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","Asia","EMA","III",5,"SiteC",3,1,1,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","I",8,"SiteB",3,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","PMDA","IV",2,"SiteC",2,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",8,"SiteA",3,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","North America","EMA","III",4,"SiteC",2,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Asia","FDA","III",5,"SiteA",3,1,1,"Deviation found.","Training records missing.",1
+"Trulicity","Asia","PMDA","II",9,"SiteB",1,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","PMDA","III",4,"SiteC",4,1,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","Asia","PMDA","I",2,"SiteB",3,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","EMA","IV",6,"SiteB",1,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","EMA","III",9,"SiteC",3,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","IV",5,"SiteC",2,1,1,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","FDA","III",6,"SiteC",1,1,1,"Deviation found.","Training records missing.",0
+"Trulicity","North America","EMA","II",5,"SiteB",2,1,1,"Untrained personnel.","Training records missing.",1
+"Trulicity","North America","PMDA","I",4,"SiteC",1,1,1,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","North America","EMA","I",5,"SiteA",0,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Europe","FDA","IV",11,"SiteC",3,1,1,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","FDA","IV",4,"SiteC",1,0,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Europe","PMDA","I",5,"SiteB",3,1,0,"No findings.","QA pending review.",0
+"Trulicity","Europe","FDA","II",13,"SiteA",1,1,1,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","EMA","IV",10,"SiteA",0,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","III",0,"SiteC",2,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","EMA","IV",5,"SiteA",2,1,0,"No critical issues noted.","Deviation due to site.",0
+"Trulicity","North America","PMDA","III",9,"SiteC",4,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","EMA","II",6,"SiteB",0,0,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","Europe","FDA","III",11,"SiteB",3,1,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","I",4,"SiteB",3,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","FDA","II",5,"SiteA",0,1,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","FDA","IV",3,"SiteA",2,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","EMA","IV",7,"SiteA",3,0,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","Europe","PMDA","III",1,"SiteA",1,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",4,"SiteA",1,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","EMA","II",4,"SiteB",2,1,1,"No findings.","QA pending review.",1
+"Trulicity","Asia","FDA","I",8,"SiteC",3,0,1,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","EMA","IV",7,"SiteB",1,1,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",7,"SiteB",1,1,2,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteC",3,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Europe","FDA","II",3,"SiteA",0,1,0,"No critical issues noted.","QA pending review.",0
+"Trulicity","North America","FDA","IV",2,"SiteC",3,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Europe","EMA","I",2,"SiteB",2,0,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","EMA","II",4,"SiteC",0,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Asia","FDA","I",6,"SiteC",1,1,1,"No findings.","QA pending review.",1
+"Trulicity","Asia","EMA","III",5,"SiteB",4,0,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","North America","EMA","III",3,"SiteC",3,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Asia","FDA","III",4,"SiteB",4,1,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","III",8,"SiteB",1,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","I",8,"SiteB",3,0,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","II",6,"SiteA",3,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Asia","FDA","IV",5,"SiteB",4,0,0,"Documentation errors noted.","Docs not up to date.",0
+"Trulicity","North America","FDA","II",6,"SiteA",3,1,0,"No findings.","QA pending review.",1
+"Trulicity","North America","FDA","II",5,"SiteA",3,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","FDA","I",6,"SiteA",1,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Europe","EMA","III",3,"SiteB",1,1,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","North America","EMA","I",6,"SiteA",2,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","FDA","I",3,"SiteB",0,0,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","North America","PMDA","IV",8,"SiteB",1,0,0,"Untrained personnel.","All procedures followed.",0
+"Trulicity","Asia","FDA","I",6,"SiteC",2,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","North America","PMDA","IV",5,"SiteC",0,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","North America","EMA","II",4,"SiteB",6,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",6,"SiteC",0,0,0,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Asia","PMDA","II",7,"SiteC",3,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","III",5,"SiteA",1,0,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","EMA","IV",2,"SiteB",0,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","EMA","I",7,"SiteB",2,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","II",6,"SiteC",2,1,0,"No critical issues noted.","Docs not up to date.",0
+"Trulicity","North America","PMDA","IV",4,"SiteC",2,0,0,"No findings.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",4,"SiteC",2,1,1,"Data integrity concerns.","All procedures followed.",0
+"Trulicity","Asia","FDA","II",2,"SiteC",1,1,1,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","Asia","PMDA","II",8,"SiteA",3,1,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","EMA","II",4,"SiteA",2,1,0,"No critical issues noted.","All procedures followed.",0
+"Trulicity","Europe","EMA","I",6,"SiteA",1,0,0,"No critical issues noted.","QA pending review.",1
+"Trulicity","Europe","FDA","I",1,"SiteB",0,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","Europe","PMDA","IV",3,"SiteA",5,1,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","EMA","I",3,"SiteC",3,1,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Europe","FDA","II",2,"SiteC",3,0,0,"No findings.","All procedures followed.",1
+"Trulicity","North America","FDA","II",5,"SiteA",1,1,1,"No findings.","QA pending review.",0
+"Trulicity","North America","PMDA","II",5,"SiteA",2,1,1,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",3,"SiteB",2,1,0,"No findings.","Training records missing.",1
+"Trulicity","Asia","PMDA","I",4,"SiteB",0,1,1,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","FDA","IV",7,"SiteC",2,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","I",5,"SiteC",2,1,0,"Deviation found.","Deviation due to site.",0
+"Trulicity","Asia","FDA","IV",5,"SiteB",1,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Europe","FDA","II",4,"SiteA",0,0,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","North America","PMDA","IV",3,"SiteB",4,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",6,"SiteB",2,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Asia","PMDA","III",7,"SiteC",2,1,1,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Asia","FDA","II",3,"SiteC",1,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",4,"SiteA",2,0,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","PMDA","I",14,"SiteA",2,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","EMA","II",6,"SiteB",3,1,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","EMA","II",5,"SiteC",3,1,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","Asia","FDA","I",5,"SiteA",3,1,0,"Untrained personnel.","Docs not up to date.",0
+"Trulicity","Europe","EMA","I",4,"SiteB",1,0,3,"No findings.","QA pending review.",1
+"Trulicity","Europe","FDA","III",5,"SiteA",3,1,0,"No critical issues noted.","Deviation due to site.",1
+"Trulicity","Europe","FDA","II",5,"SiteB",1,1,0,"Untrained personnel.","Training records missing.",0
+"Trulicity","Asia","EMA","III",3,"SiteB",6,0,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","IV",6,"SiteC",2,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","FDA","IV",0,"SiteA",1,1,1,"No critical issues noted.","QA pending review.",0
+"Trulicity","North America","EMA","IV",6,"SiteB",1,0,0,"Data integrity concerns.","All procedures followed.",1
+"Trulicity","Asia","PMDA","I",1,"SiteA",4,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","I",1,"SiteC",0,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","Europe","EMA","IV",2,"SiteB",0,0,0,"Documentation errors noted.","Training records missing.",0
+"Trulicity","Europe","PMDA","II",1,"SiteC",1,1,1,"Deviation found.","Deviation due to site.",0
+"Trulicity","Europe","PMDA","I",3,"SiteA",1,1,1,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","PMDA","II",5,"SiteA",3,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","II",8,"SiteC",1,1,2,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","PMDA","IV",7,"SiteA",2,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","FDA","III",4,"SiteA",1,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",5,"SiteC",0,1,0,"Documentation errors noted.","Deviation due to site.",0
+"Trulicity","Europe","EMA","IV",1,"SiteB",2,1,1,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","EMA","I",7,"SiteB",0,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Asia","EMA","I",3,"SiteC",3,1,1,"Data integrity concerns.","Training records missing.",1
+"Trulicity","Europe","FDA","I",6,"SiteB",3,0,0,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","IV",6,"SiteC",1,1,1,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","FDA","IV",6,"SiteA",2,0,0,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","III",6,"SiteA",2,1,0,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","North America","FDA","IV",9,"SiteC",1,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","III",3,"SiteC",3,0,1,"Deviation found.","Training records missing.",1
+"Trulicity","Asia","PMDA","IV",3,"SiteA",3,0,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","North America","PMDA","I",4,"SiteC",2,0,1,"Deviation found.","Training records missing.",1
+"Trulicity","Europe","FDA","III",3,"SiteC",2,1,0,"No findings.","Training records missing.",0
+"Trulicity","North America","PMDA","I",5,"SiteA",1,1,2,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Asia","PMDA","III",6,"SiteA",2,1,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","North America","FDA","IV",4,"SiteB",0,1,0,"Documentation errors noted.","All procedures followed.",0
+"Trulicity","Asia","PMDA","I",5,"SiteA",0,0,0,"Data integrity concerns.","QA pending review.",0
+"Trulicity","Europe","PMDA","III",5,"SiteC",1,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","North America","EMA","IV",1,"SiteA",0,1,1,"Deviation found.","Deviation due to site.",0
+"Trulicity","Europe","FDA","I",7,"SiteA",3,1,0,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","FDA","I",6,"SiteC",1,1,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Asia","FDA","III",6,"SiteC",5,1,0,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",2,"SiteB",5,0,0,"Deviation found.","Training records missing.",1
+"Trulicity","North America","EMA","I",6,"SiteB",1,0,1,"Deviation found.","All procedures followed.",0
+"Trulicity","Asia","PMDA","III",2,"SiteB",1,1,0,"Untrained personnel.","Deviation due to site.",0
+"Trulicity","North America","PMDA","I",6,"SiteB",4,1,1,"No critical issues noted.","Training records missing.",1
+"Trulicity","Europe","FDA","IV",9,"SiteB",1,1,0,"No critical issues noted.","Docs not up to date.",1
+"Trulicity","Europe","PMDA","IV",3,"SiteB",1,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Asia","PMDA","I",8,"SiteC",2,1,0,"No findings.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","II",4,"SiteB",1,1,0,"Data integrity concerns.","Docs not up to date.",0
+"Trulicity","North America","FDA","IV",3,"SiteA",2,1,0,"Data integrity concerns.","Training records missing.",0
+"Trulicity","North America","PMDA","III",6,"SiteA",2,1,0,"Untrained personnel.","Training records missing.",1
+"Trulicity","Asia","PMDA","II",9,"SiteB",2,1,0,"Data integrity concerns.","Docs not up to date.",1
+"Trulicity","Asia","FDA","III",2,"SiteB",1,1,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","EMA","III",4,"SiteC",3,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","Europe","PMDA","I",3,"SiteC",2,1,0,"No findings.","QA pending review.",0
+"Trulicity","Asia","FDA","III",7,"SiteC",3,0,1,"Deviation found.","All procedures followed.",1
+"Trulicity","Europe","EMA","I",4,"SiteB",3,0,1,"Deviation found.","Deviation due to site.",1
+"Trulicity","Europe","FDA","III",8,"SiteC",6,1,0,"No findings.","Training records missing.",1
+"Trulicity","North America","PMDA","I",3,"SiteA",3,0,0,"No findings.","QA pending review.",0
+"Trulicity","North America","PMDA","III",8,"SiteA",5,1,0,"No findings.","Training records missing.",1
+"Trulicity","North America","PMDA","I",8,"SiteA",3,0,1,"Deviation found.","Docs not up to date.",1
+"Trulicity","Europe","FDA","III",8,"SiteC",4,1,1,"No findings.","Docs not up to date.",1
+"Trulicity","North America","PMDA","II",8,"SiteC",0,0,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Europe","EMA","III",4,"SiteC",0,1,1,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","II",4,"SiteA",1,0,0,"No findings.","All procedures followed.",0
+"Trulicity","Asia","EMA","III",4,"SiteA",4,1,0,"Deviation found.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","I",6,"SiteA",1,1,0,"Deviation found.","QA pending review.",1
+"Trulicity","Europe","FDA","I",8,"SiteC",2,1,0,"Data integrity concerns.","Training records missing.",1
+"Trulicity","North America","FDA","IV",3,"SiteB",3,0,0,"No findings.","Docs not up to date.",1
+"Trulicity","Asia","PMDA","II",5,"SiteC",3,0,0,"Deviation found.","Deviation due to site.",1
+"Trulicity","Europe","PMDA","IV",4,"SiteC",0,1,2,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","North America","EMA","I",3,"SiteB",1,1,0,"Deviation found.","Training records missing.",0
+"Trulicity","Asia","PMDA","IV",4,"SiteC",1,1,1,"Deviation found.","All procedures followed.",0
+"Trulicity","North America","PMDA","I",3,"SiteB",3,1,0,"Documentation errors noted.","QA pending review.",1
+"Trulicity","Asia","EMA","II",7,"SiteB",3,0,0,"Documentation errors noted.","Training records missing.",1
+"Trulicity","North America","EMA","IV",8,"SiteA",5,1,0,"No critical issues noted.","All procedures followed.",1
+"Trulicity","North America","PMDA","I",5,"SiteA",3,1,1,"Untrained personnel.","Docs not up to date.",1
+"Trulicity","North America","FDA","II",7,"SiteB",2,1,0,"No findings.","All procedures followed.",1
+"Trulicity","Europe","PMDA","III",5,"SiteA",2,1,1,"Documentation errors noted.","Deviation due to site.",1
+"Trulicity","Asia","PMDA","II",8,"SiteC",1,1,0,"Documentation errors noted.","All procedures followed.",1
+"Trulicity","Europe","EMA","IV",3,"SiteC",5,1,1,"Untrained personnel.","All procedures followed.",1
+"Trulicity","Europe","PMDA","II",4,"SiteA",3,1,0,"Untrained personnel.","Deviation due to site.",1
+"Trulicity","North America","FDA","II",5,"SiteC",0,0,1,"Data integrity concerns.","Deviation due to site.",1
+"Trulicity","Europe","EMA","III",5,"SiteA",2,0,0,"Untrained personnel.","QA pending review.",1
+"Trulicity","Europe","PMDA","IV",5,"SiteA",2,1,1,"Deviation found.","QA pending review.",1
+"Trulicity","Europe","EMA","II",3,"SiteA",2,0,0,"Data integrity concerns.","QA pending review.",1
+"Trulicity","Asia","FDA","IV",7,"SiteA",2,1,1,"Documentation errors noted.","All procedures followed.",1
