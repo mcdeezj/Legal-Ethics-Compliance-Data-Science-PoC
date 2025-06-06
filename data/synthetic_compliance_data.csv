@@ -1,0 +1,1001 @@
+product_name,region,regulatory_body,clinical_trial_phase,adverse_event_reports,manufacturing_site,inspection_findings,compliance_training,previous_violations,inspection_report_text,compliance_notes,compliance_issue
+Trulicity,Asia,PMDA,II,6,SiteA,0,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,0
+Trulicity,North America,PMDA,IV,5,SiteC,0,0,1,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,I,2,SiteC,1,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,IV,4,SiteA,2,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,0
+Trulicity,North America,FDA,I,3,SiteA,1,1,1,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,North America,PMDA,III,7,SiteC,0,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,0
+Trulicity,Asia,EMA,I,4,SiteA,3,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,III,5,SiteB,0,0,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,PMDA,IV,4,SiteB,2,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,III,5,SiteC,1,1,1,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,IV,4,SiteC,1,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,II,6,SiteA,3,1,1,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,North America,FDA,II,9,SiteA,2,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,II,3,SiteC,3,1,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,III,8,SiteC,3,0,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,II,5,SiteB,5,0,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,I,1,SiteB,2,1,2,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,IV,3,SiteA,0,1,0,Inspection passed with no findings.,Excellent compliance observed at site.,0
+Trulicity,Europe,EMA,IV,5,SiteB,1,0,0,Observed potential data integrity concerns.,Documentation not updated in real time.,0
+Trulicity,Europe,PMDA,I,4,SiteA,1,1,1,Several minor documentation errors were found.,Excellent compliance observed at site.,0
+Trulicity,North America,PMDA,III,6,SiteA,2,1,1,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,III,5,SiteA,3,1,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,IV,5,SiteB,4,1,1,Observed potential data integrity concerns.,Documentation not updated in real time.,0
+Trulicity,Europe,FDA,II,4,SiteC,0,0,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,FDA,III,9,SiteC,1,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,North America,EMA,III,6,SiteB,2,1,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,I,7,SiteC,2,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,I,3,SiteA,3,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,II,2,SiteC,1,0,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,0
+Trulicity,Asia,FDA,III,3,SiteB,1,1,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,III,2,SiteC,2,1,1,Inspection passed with no findings.,No issues reported by QA team.,0
+Trulicity,Asia,PMDA,I,7,SiteA,0,1,2,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,III,2,SiteA,3,1,1,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Europe,EMA,IV,5,SiteB,3,1,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,EMA,I,5,SiteB,3,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,II,7,SiteB,3,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,I,5,SiteA,2,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,0
+Trulicity,Asia,EMA,III,6,SiteC,5,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,II,7,SiteC,3,0,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,I,3,SiteB,1,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,IV,6,SiteC,4,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,IV,8,SiteC,2,0,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,I,3,SiteB,2,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,0
+Trulicity,North America,FDA,IV,6,SiteB,0,0,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,IV,5,SiteA,1,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,IV,3,SiteA,2,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,0
+Trulicity,Europe,EMA,II,4,SiteA,1,0,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,0
+Trulicity,North America,FDA,IV,6,SiteA,3,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,IV,6,SiteC,5,0,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,IV,7,SiteC,2,1,1,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,II,6,SiteA,2,1,1,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,5,SiteA,2,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,III,2,SiteB,1,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,0
+Trulicity,North America,FDA,IV,5,SiteC,1,1,1,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,I,9,SiteC,3,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,IV,3,SiteA,4,1,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,II,9,SiteC,2,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,I,2,SiteB,4,0,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,II,1,SiteB,2,1,1,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,IV,4,SiteC,3,0,1,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,IV,3,SiteA,2,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,0
+Trulicity,North America,EMA,II,4,SiteC,3,1,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,III,5,SiteB,2,0,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,II,1,SiteA,3,1,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,EMA,IV,3,SiteC,0,1,2,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,II,5,SiteA,2,1,0,Inspection passed with no findings.,Training records incomplete for some staff.,0
+Trulicity,Europe,FDA,III,3,SiteA,2,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,II,12,SiteB,3,1,1,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Europe,EMA,III,2,SiteA,2,0,1,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,EMA,III,3,SiteC,0,1,1,Several minor documentation errors were found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,EMA,II,4,SiteA,1,0,0,Several minor documentation errors were found.,Training records incomplete for some staff.,0
+Trulicity,Europe,FDA,II,9,SiteA,4,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,I,5,SiteC,2,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,IV,3,SiteB,2,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,III,3,SiteB,1,0,2,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,4,SiteC,2,0,0,Several minor documentation errors were found.,Excellent compliance observed at site.,0
+Trulicity,Europe,PMDA,II,4,SiteC,1,1,1,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,IV,7,SiteB,2,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,EMA,I,6,SiteA,1,1,1,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,III,3,SiteC,2,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,I,6,SiteA,1,1,2,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,III,6,SiteC,3,0,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,II,4,SiteB,1,1,0,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,IV,7,SiteA,2,0,1,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,IV,4,SiteA,1,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,IV,7,SiteC,0,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,II,3,SiteA,1,1,2,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,III,4,SiteC,2,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,0
+Trulicity,Europe,FDA,II,7,SiteB,0,0,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,IV,8,SiteA,2,1,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,II,2,SiteC,2,1,1,"No critical issues noted, routine inspection.",Review pending for last inspection round.,0
+Trulicity,North America,EMA,II,9,SiteA,0,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,0
+Trulicity,North America,EMA,II,6,SiteC,1,1,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,III,4,SiteC,2,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,I,7,SiteC,0,0,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,I,2,SiteB,4,1,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,II,2,SiteA,4,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,I,3,SiteB,1,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,I,5,SiteC,2,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,II,7,SiteC,3,0,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,II,4,SiteB,4,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Asia,PMDA,IV,4,SiteB,3,0,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,I,5,SiteA,1,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,North America,EMA,III,5,SiteC,3,1,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,II,4,SiteB,1,0,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,IV,5,SiteC,1,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,III,6,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,I,5,SiteA,3,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,0
+Trulicity,North America,FDA,IV,7,SiteA,0,0,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,II,8,SiteA,3,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,III,4,SiteB,0,1,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,0
+Trulicity,Europe,FDA,II,5,SiteC,2,0,1,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,I,6,SiteB,0,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,III,9,SiteB,0,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,North America,EMA,I,6,SiteA,0,1,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,I,0,SiteC,1,1,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,0
+Trulicity,North America,FDA,IV,4,SiteC,1,0,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,II,2,SiteA,3,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,III,6,SiteC,1,0,1,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,9,SiteA,0,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,North America,EMA,I,0,SiteB,3,0,0,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,III,3,SiteB,2,0,0,Several minor documentation errors were found.,Review pending for last inspection round.,0
+Trulicity,Europe,PMDA,I,0,SiteA,1,1,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,IV,8,SiteB,1,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,IV,2,SiteB,3,1,0,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,IV,4,SiteA,3,0,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,IV,4,SiteB,1,0,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,I,5,SiteC,2,1,1,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,III,4,SiteB,3,0,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Europe,FDA,III,3,SiteA,2,1,1,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,III,2,SiteC,1,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,0
+Trulicity,North America,PMDA,III,8,SiteC,2,0,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,II,4,SiteB,1,1,1,Several minor documentation errors were found.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,FDA,III,5,SiteC,2,0,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,II,5,SiteA,4,1,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,II,7,SiteC,1,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,0
+Trulicity,Europe,FDA,IV,5,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,II,8,SiteB,1,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,I,5,SiteC,4,0,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,North America,PMDA,II,4,SiteA,2,1,1,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,IV,6,SiteA,0,1,1,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,0
+Trulicity,Asia,FDA,II,5,SiteB,1,1,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Europe,EMA,I,1,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,I,7,SiteA,3,0,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,4,SiteC,1,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,IV,4,SiteC,2,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Asia,FDA,IV,4,SiteC,2,0,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,III,6,SiteC,3,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,IV,6,SiteA,2,0,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,I,4,SiteB,1,1,1,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,I,5,SiteB,4,1,1,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,IV,4,SiteC,2,0,1,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,II,4,SiteA,2,0,1,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,IV,8,SiteA,1,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,IV,4,SiteC,4,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,I,7,SiteC,1,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,0
+Trulicity,Asia,PMDA,III,7,SiteC,3,1,1,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,I,9,SiteB,2,0,1,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,III,6,SiteC,1,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,I,5,SiteB,1,1,1,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,IV,10,SiteA,0,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Asia,FDA,I,8,SiteA,1,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,EMA,I,5,SiteB,1,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,I,6,SiteB,1,0,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,IV,1,SiteB,3,0,0,Inspection passed with no findings.,Review pending for last inspection round.,0
+Trulicity,North America,PMDA,IV,10,SiteB,2,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,0
+Trulicity,Europe,PMDA,IV,10,SiteC,3,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,0
+Trulicity,North America,EMA,IV,3,SiteA,0,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,0
+Trulicity,North America,PMDA,III,6,SiteC,1,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,0
+Trulicity,Europe,PMDA,III,8,SiteB,1,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,II,1,SiteC,5,0,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,IV,7,SiteC,5,0,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,III,6,SiteA,3,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,I,5,SiteC,3,1,1,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,IV,5,SiteA,2,0,0,Several minor documentation errors were found.,No issues reported by QA team.,0
+Trulicity,North America,EMA,II,8,SiteB,2,1,0,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,II,2,SiteC,2,1,1,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,II,5,SiteB,0,1,1,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,5,SiteA,2,1,1,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,III,3,SiteB,1,0,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,North America,PMDA,I,5,SiteB,2,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,0
+Trulicity,Asia,EMA,IV,4,SiteA,2,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,0
+Trulicity,Europe,FDA,II,3,SiteB,4,0,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,North America,EMA,I,8,SiteB,4,1,1,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,I,4,SiteB,2,0,0,Several minor documentation errors were found.,Documentation not updated in real time.,0
+Trulicity,North America,FDA,III,4,SiteC,2,1,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,III,2,SiteB,4,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,II,5,SiteA,2,0,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,I,6,SiteC,4,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,I,4,SiteC,0,1,1,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,0
+Trulicity,North America,FDA,III,4,SiteA,0,1,1,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,I,1,SiteB,2,1,1,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,I,3,SiteC,2,1,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,0
+Trulicity,North America,FDA,I,5,SiteC,3,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,Asia,PMDA,III,4,SiteC,3,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,II,5,SiteB,4,0,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,IV,7,SiteC,1,1,1,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,II,8,SiteA,2,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,IV,4,SiteB,1,1,1,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,I,6,SiteA,1,0,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,0
+Trulicity,North America,EMA,II,2,SiteA,5,0,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,IV,7,SiteC,1,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,North America,EMA,III,3,SiteC,3,0,0,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,III,9,SiteC,1,1,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,II,3,SiteA,0,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,FDA,II,5,SiteB,1,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,I,3,SiteC,0,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,II,7,SiteC,1,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,3,SiteA,3,1,1,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,I,6,SiteB,2,0,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,EMA,III,6,SiteA,1,0,0,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,III,3,SiteC,3,1,1,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,IV,2,SiteA,3,0,2,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,III,4,SiteC,0,1,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,III,8,SiteB,2,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,II,5,SiteA,1,1,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,EMA,III,10,SiteC,2,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,IV,4,SiteC,0,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,II,1,SiteC,3,0,1,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,IV,4,SiteC,2,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,III,7,SiteA,4,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,IV,7,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,II,6,SiteA,4,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,I,7,SiteC,1,0,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,IV,7,SiteA,1,1,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,0
+Trulicity,Europe,EMA,IV,2,SiteA,0,0,1,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,0
+Trulicity,Europe,FDA,II,2,SiteC,4,0,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,II,9,SiteC,4,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,IV,1,SiteC,2,1,1,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Asia,FDA,III,5,SiteC,2,0,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,0
+Trulicity,Asia,PMDA,IV,7,SiteB,2,0,0,Inspection passed with no findings.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,II,3,SiteC,2,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,I,8,SiteC,4,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,I,6,SiteC,0,0,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,III,7,SiteA,4,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,IV,5,SiteC,1,1,1,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,I,3,SiteA,1,0,1,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,IV,9,SiteA,2,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,II,5,SiteA,3,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,I,8,SiteA,2,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,III,12,SiteB,7,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,II,5,SiteC,5,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,III,6,SiteA,2,0,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,II,2,SiteC,3,1,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,I,2,SiteA,2,1,1,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,III,8,SiteB,2,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,III,3,SiteA,2,1,1,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,0
+Trulicity,Asia,EMA,II,5,SiteC,2,1,1,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,III,3,SiteC,2,1,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,0
+Trulicity,Asia,PMDA,II,5,SiteB,1,1,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,II,3,SiteC,0,1,1,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,II,4,SiteC,5,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,II,5,SiteA,5,1,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,I,6,SiteC,1,0,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,0
+Trulicity,North America,FDA,II,6,SiteA,2,1,1,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,IV,8,SiteB,0,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,III,7,SiteC,1,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,IV,6,SiteA,2,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,0
+Trulicity,Asia,EMA,I,8,SiteC,0,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,IV,9,SiteA,2,1,0,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,III,6,SiteB,4,1,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,IV,7,SiteA,3,0,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,I,8,SiteC,3,0,1,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,II,2,SiteA,5,1,0,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,IV,3,SiteC,3,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,I,2,SiteB,6,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,I,4,SiteA,1,0,1,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,III,7,SiteC,4,0,1,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,III,7,SiteC,0,1,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,0
+Trulicity,North America,FDA,IV,9,SiteC,2,1,0,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,0
+Trulicity,North America,FDA,II,6,SiteA,4,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,I,2,SiteA,2,1,1,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,IV,4,SiteA,3,1,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,I,9,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,0
+Trulicity,North America,EMA,I,3,SiteC,0,1,1,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,II,3,SiteC,2,0,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,II,9,SiteB,5,0,1,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Asia,PMDA,IV,3,SiteB,1,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,II,7,SiteA,1,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,North America,EMA,II,7,SiteA,2,0,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,IV,3,SiteA,2,1,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,II,4,SiteA,1,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,0
+Trulicity,Asia,FDA,III,1,SiteA,0,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,FDA,I,3,SiteA,3,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,I,5,SiteB,1,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,I,5,SiteB,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,I,6,SiteB,1,1,1,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,EMA,IV,1,SiteC,2,1,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,0
+Trulicity,Europe,FDA,I,6,SiteC,2,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,I,6,SiteA,2,1,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,I,1,SiteB,0,0,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,0
+Trulicity,North America,PMDA,I,3,SiteC,3,1,1,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,III,6,SiteC,4,1,1,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,I,8,SiteB,1,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,0
+Trulicity,North America,EMA,III,8,SiteC,5,1,1,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,IV,8,SiteC,2,1,1,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,EMA,II,8,SiteB,1,0,1,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,I,2,SiteC,3,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,0
+Trulicity,Europe,EMA,II,6,SiteB,2,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Europe,PMDA,II,4,SiteC,1,0,0,Inspection passed with no findings.,All procedures followed as per protocol.,0
+Trulicity,Asia,PMDA,IV,8,SiteB,2,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,North America,FDA,II,11,SiteC,1,1,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,North America,FDA,III,2,SiteC,4,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,II,5,SiteB,3,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,II,10,SiteC,3,0,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,II,4,SiteB,5,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,8,SiteB,1,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,EMA,I,4,SiteC,3,0,1,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,III,3,SiteA,3,1,1,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,North America,EMA,III,6,SiteC,5,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,I,7,SiteA,2,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,III,4,SiteA,0,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,I,7,SiteC,2,0,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,IV,4,SiteA,4,0,1,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,II,3,SiteB,1,1,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,0
+Trulicity,Europe,PMDA,II,4,SiteB,4,1,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,III,6,SiteA,2,1,1,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,I,6,SiteB,1,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,I,8,SiteC,2,1,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,0
+Trulicity,Europe,PMDA,III,7,SiteB,2,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,I,2,SiteA,2,0,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,IV,6,SiteC,3,0,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,II,4,SiteB,4,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,III,2,SiteC,2,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,0
+Trulicity,Asia,FDA,III,9,SiteA,0,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Europe,EMA,I,5,SiteB,2,0,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,North America,FDA,III,3,SiteC,2,0,1,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,IV,2,SiteC,1,0,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,0
+Trulicity,North America,FDA,I,6,SiteB,1,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,I,3,SiteC,1,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,I,6,SiteC,1,1,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,0
+Trulicity,North America,FDA,I,5,SiteA,2,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,IV,2,SiteA,1,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,0
+Trulicity,Asia,EMA,I,7,SiteA,2,1,1,Inspection passed with no findings.,No issues reported by QA team.,0
+Trulicity,Asia,PMDA,III,6,SiteA,4,1,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,IV,5,SiteA,4,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,II,8,SiteA,2,1,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,0
+Trulicity,Europe,PMDA,II,3,SiteB,2,1,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,III,5,SiteA,2,1,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,III,5,SiteC,0,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,North America,FDA,IV,4,SiteB,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Europe,EMA,II,3,SiteC,0,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,PMDA,II,3,SiteA,1,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,0
+Trulicity,North America,PMDA,II,5,SiteA,1,0,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,0
+Trulicity,North America,EMA,II,5,SiteC,3,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,North America,PMDA,II,6,SiteC,2,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,6,SiteC,2,1,1,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,III,6,SiteB,3,0,1,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,North America,FDA,I,6,SiteA,1,1,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,0
+Trulicity,Asia,PMDA,II,7,SiteC,6,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,IV,2,SiteA,2,1,1,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,0
+Trulicity,North America,PMDA,IV,5,SiteC,4,0,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,II,3,SiteA,2,0,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,II,1,SiteB,0,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,0
+Trulicity,North America,FDA,IV,8,SiteA,3,0,1,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,I,0,SiteC,1,0,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,I,4,SiteA,1,1,2,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,Asia,FDA,II,3,SiteB,2,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,I,3,SiteB,1,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,IV,2,SiteA,3,0,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,3,SiteC,2,1,0,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,II,8,SiteB,4,0,1,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,IV,6,SiteB,0,1,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,I,4,SiteA,2,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,III,6,SiteB,2,0,1,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,IV,5,SiteB,2,1,1,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,IV,1,SiteC,3,1,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,III,3,SiteC,3,1,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,III,3,SiteC,0,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,IV,3,SiteA,2,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,0
+Trulicity,Europe,EMA,III,9,SiteB,2,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,II,2,SiteA,3,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,EMA,II,3,SiteB,3,0,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,II,5,SiteB,1,0,1,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,IV,4,SiteB,1,1,1,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,III,3,SiteC,2,0,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,III,3,SiteA,1,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,I,0,SiteA,2,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,I,2,SiteB,5,1,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,0
+Trulicity,Asia,EMA,III,7,SiteA,4,0,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,III,4,SiteC,3,0,0,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,III,3,SiteA,4,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,IV,11,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,III,2,SiteC,0,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,0
+Trulicity,Asia,EMA,I,6,SiteC,0,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,IV,11,SiteB,1,1,1,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,III,3,SiteA,2,1,1,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,I,5,SiteB,1,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,IV,6,SiteA,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,North America,EMA,III,4,SiteA,0,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,III,3,SiteC,3,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,III,10,SiteB,3,1,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,IV,2,SiteC,2,0,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,4,SiteB,2,0,1,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,I,7,SiteB,1,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,II,6,SiteC,0,1,1,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,III,7,SiteB,1,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,II,5,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,II,7,SiteA,4,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,I,1,SiteB,2,1,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,0
+Trulicity,Europe,FDA,IV,6,SiteB,1,0,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,IV,5,SiteC,5,0,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,I,15,SiteC,1,0,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Asia,PMDA,IV,6,SiteB,2,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,II,3,SiteA,3,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,III,2,SiteA,1,1,1,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,5,SiteC,1,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,EMA,III,7,SiteB,2,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,IV,3,SiteB,1,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,0
+Trulicity,Europe,EMA,III,3,SiteA,1,1,1,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,IV,4,SiteA,2,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Europe,EMA,IV,2,SiteA,0,0,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,0
+Trulicity,Europe,EMA,II,3,SiteC,3,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,IV,5,SiteB,1,0,0,Observed potential data integrity concerns.,Review pending for last inspection round.,0
+Trulicity,Europe,FDA,II,7,SiteC,1,1,0,Several minor documentation errors were found.,Review pending for last inspection round.,0
+Trulicity,North America,FDA,II,5,SiteB,1,0,1,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,Europe,EMA,II,7,SiteC,3,0,1,Inspection passed with no findings.,Training records incomplete for some staff.,0
+Trulicity,Europe,EMA,I,2,SiteB,3,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,I,6,SiteA,1,0,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,IV,4,SiteA,2,1,0,Inspection passed with no findings.,Training records incomplete for some staff.,0
+Trulicity,Asia,EMA,II,2,SiteA,2,0,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,North America,EMA,I,6,SiteC,2,0,1,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,II,3,SiteA,1,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,III,3,SiteB,2,1,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,III,4,SiteC,2,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,III,4,SiteB,0,1,1,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,IV,5,SiteC,3,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,II,4,SiteB,1,0,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,III,6,SiteB,4,0,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,I,4,SiteC,3,0,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,III,7,SiteC,4,1,1,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,III,9,SiteA,3,0,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,III,3,SiteA,0,0,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,IV,4,SiteB,2,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,I,3,SiteB,2,1,1,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,II,4,SiteB,1,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,0
+Trulicity,Asia,EMA,I,5,SiteC,1,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,II,2,SiteC,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Asia,EMA,IV,5,SiteA,4,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,IV,10,SiteB,1,0,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,IV,5,SiteA,2,1,1,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,IV,5,SiteC,0,1,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Europe,EMA,II,7,SiteC,1,1,0,Several minor documentation errors were found.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,III,5,SiteC,4,0,1,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,II,7,SiteA,0,0,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,I,3,SiteC,2,0,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,IV,3,SiteB,0,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,IV,6,SiteA,3,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,EMA,I,4,SiteC,2,0,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,II,4,SiteA,2,1,1,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,0
+Trulicity,North America,FDA,III,2,SiteA,2,1,1,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,III,2,SiteC,1,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,0
+Trulicity,Europe,PMDA,I,3,SiteC,2,1,0,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,III,4,SiteA,2,0,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,II,6,SiteA,3,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,PMDA,II,4,SiteC,3,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,I,5,SiteB,1,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,II,4,SiteA,3,1,1,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,0
+Trulicity,Europe,EMA,IV,5,SiteA,3,1,1,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,North America,PMDA,I,8,SiteB,4,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,II,4,SiteC,0,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,0
+Trulicity,North America,EMA,I,2,SiteC,1,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,0
+Trulicity,North America,EMA,III,2,SiteB,0,1,2,Inspection passed with no findings.,Deviation from protocol due to site issue.,0
+Trulicity,North America,FDA,II,3,SiteC,1,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,0
+Trulicity,Asia,FDA,IV,6,SiteC,0,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,II,4,SiteA,2,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,I,3,SiteA,5,0,1,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,I,4,SiteA,0,1,1,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,II,3,SiteB,6,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,IV,8,SiteC,0,1,1,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,IV,4,SiteC,4,0,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,IV,8,SiteA,2,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,I,4,SiteA,3,1,1,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,II,4,SiteB,1,0,1,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,III,1,SiteC,4,0,0,Inspection passed with no findings.,No issues reported by QA team.,0
+Trulicity,North America,EMA,I,3,SiteB,2,0,0,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,North America,FDA,IV,8,SiteC,1,1,1,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,II,6,SiteB,0,1,1,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,North America,EMA,IV,6,SiteA,3,1,1,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,III,9,SiteB,4,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,IV,4,SiteB,2,1,1,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,IV,3,SiteA,4,1,2,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,III,8,SiteC,3,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,II,3,SiteC,2,0,1,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,I,2,SiteA,5,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Europe,FDA,II,2,SiteB,1,0,0,Several minor documentation errors were found.,All procedures followed as per protocol.,0
+Trulicity,Europe,PMDA,III,7,SiteB,2,0,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,IV,5,SiteB,2,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,FDA,II,6,SiteC,1,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,I,5,SiteB,0,0,1,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,III,9,SiteC,3,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,II,4,SiteB,3,1,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,0
+Trulicity,North America,EMA,I,5,SiteA,3,0,1,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,III,7,SiteA,2,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,I,3,SiteC,3,0,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Europe,EMA,III,8,SiteC,3,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Europe,EMA,IV,5,SiteA,0,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,0
+Trulicity,North America,EMA,II,5,SiteA,1,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,I,2,SiteB,4,1,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,III,8,SiteA,1,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,I,9,SiteC,2,1,1,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,3,SiteA,3,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,II,4,SiteC,1,1,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,IV,4,SiteC,1,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,4,SiteB,4,1,0,Several minor documentation errors were found.,Review pending for last inspection round.,0
+Trulicity,North America,EMA,III,9,SiteB,5,0,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,III,5,SiteB,1,1,0,Inspection passed with no findings.,Review pending for last inspection round.,0
+Trulicity,Asia,PMDA,IV,6,SiteB,1,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,III,7,SiteA,5,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,IV,11,SiteB,0,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,III,10,SiteA,2,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,II,7,SiteB,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,I,4,SiteB,2,0,1,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,II,5,SiteC,2,0,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,I,4,SiteA,1,0,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,0
+Trulicity,North America,PMDA,I,5,SiteC,3,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,I,6,SiteB,3,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,II,6,SiteA,3,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,North America,EMA,I,0,SiteB,1,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,0
+Trulicity,Asia,FDA,II,4,SiteC,0,0,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,0
+Trulicity,North America,EMA,IV,4,SiteA,2,1,1,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,III,7,SiteC,1,1,0,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,0
+Trulicity,Europe,PMDA,III,9,SiteB,4,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,I,3,SiteB,4,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,II,3,SiteB,1,0,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,0
+Trulicity,North America,FDA,III,4,SiteA,0,1,2,Follow-up needed on previously reported issue.,Review pending for last inspection round.,0
+Trulicity,Asia,FDA,II,3,SiteC,2,0,1,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,II,5,SiteC,2,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,7,SiteB,4,0,2,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,III,2,SiteC,1,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,I,8,SiteA,1,0,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,I,5,SiteB,2,1,1,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,0
+Trulicity,Asia,PMDA,III,6,SiteB,6,1,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,Asia,EMA,III,4,SiteB,1,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,IV,5,SiteA,0,1,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,IV,9,SiteB,1,0,0,Inspection passed with no findings.,Excellent compliance observed at site.,1
+Trulicity,North America,EMA,II,3,SiteB,1,1,1,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,III,4,SiteB,0,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,0
+Trulicity,Europe,EMA,IV,5,SiteB,1,0,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,II,4,SiteC,1,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Europe,FDA,II,3,SiteB,4,1,1,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,II,9,SiteA,6,1,1,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,IV,4,SiteB,1,1,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,North America,PMDA,III,5,SiteB,1,1,2,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,I,4,SiteC,1,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,II,5,SiteB,2,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,IV,5,SiteC,0,0,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,IV,9,SiteA,5,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,I,5,SiteC,2,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,0
+Trulicity,Asia,PMDA,I,8,SiteB,2,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,IV,5,SiteA,1,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,III,2,SiteB,1,1,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,I,3,SiteC,1,1,1,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,IV,2,SiteA,6,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,I,5,SiteA,2,1,1,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,III,3,SiteC,1,1,1,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,0
+Trulicity,North America,PMDA,II,3,SiteC,0,1,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,6,SiteA,4,0,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,III,6,SiteA,0,0,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,0
+Trulicity,North America,PMDA,IV,6,SiteC,4,1,1,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,I,5,SiteB,1,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,I,4,SiteA,3,0,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,IV,2,SiteC,2,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,0
+Trulicity,Asia,PMDA,II,6,SiteB,2,0,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,IV,5,SiteA,3,1,1,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,I,4,SiteA,1,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,North America,EMA,IV,4,SiteC,1,1,1,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,North America,PMDA,III,4,SiteB,1,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Asia,PMDA,IV,7,SiteA,2,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,I,4,SiteB,1,1,2,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,Asia,PMDA,IV,5,SiteB,1,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,0
+Trulicity,North America,FDA,II,4,SiteA,1,1,1,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,IV,3,SiteB,3,0,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,II,6,SiteA,6,1,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,III,7,SiteB,2,0,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,II,8,SiteA,0,1,2,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,IV,3,SiteC,0,0,1,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,I,3,SiteA,3,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,North America,FDA,II,6,SiteA,3,0,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,III,3,SiteA,4,0,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,North America,EMA,II,3,SiteB,2,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,II,3,SiteC,0,0,1,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,II,4,SiteB,2,0,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,III,4,SiteB,3,1,1,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,IV,1,SiteA,2,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,II,5,SiteB,1,1,1,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,II,10,SiteA,2,0,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,I,4,SiteC,2,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,III,9,SiteB,1,1,2,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,II,2,SiteB,1,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,0
+Trulicity,Asia,FDA,III,5,SiteB,4,1,1,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,II,9,SiteA,2,0,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,IV,8,SiteA,4,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,IV,2,SiteB,1,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,0
+Trulicity,North America,PMDA,II,3,SiteB,1,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,IV,3,SiteC,3,0,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,II,4,SiteC,2,1,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,0
+Trulicity,North America,EMA,IV,2,SiteC,1,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,0
+Trulicity,Asia,FDA,I,6,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,North America,FDA,I,2,SiteC,1,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,North America,EMA,I,6,SiteA,1,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,0
+Trulicity,Asia,FDA,III,5,SiteC,0,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,III,6,SiteC,3,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,I,4,SiteB,4,0,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,III,3,SiteA,1,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,IV,3,SiteC,3,1,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,Europe,EMA,II,2,SiteC,0,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,0
+Trulicity,Europe,FDA,II,7,SiteC,3,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,II,3,SiteB,1,1,1,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,7,SiteB,2,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,III,3,SiteB,3,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,IV,4,SiteC,2,0,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,IV,4,SiteB,1,1,1,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,I,6,SiteC,1,0,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,IV,4,SiteA,2,1,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,North America,FDA,IV,2,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,0
+Trulicity,Asia,EMA,IV,5,SiteB,2,0,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,IV,5,SiteA,2,0,2,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,III,4,SiteC,3,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,IV,6,SiteA,5,1,1,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,II,5,SiteA,2,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,0
+Trulicity,Europe,FDA,I,2,SiteA,2,1,2,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,III,4,SiteC,1,0,0,Inspection passed with no findings.,No issues reported by QA team.,0
+Trulicity,North America,FDA,IV,4,SiteB,4,0,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,III,6,SiteC,2,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,IV,6,SiteB,2,0,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,II,6,SiteC,0,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,0
+Trulicity,Europe,FDA,I,5,SiteC,1,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,IV,6,SiteC,1,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,IV,4,SiteB,1,0,1,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,IV,8,SiteC,2,0,0,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,IV,6,SiteA,3,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,I,2,SiteC,3,1,2,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,I,5,SiteA,4,0,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,II,5,SiteB,3,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,I,9,SiteB,1,1,0,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,IV,7,SiteC,3,0,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,II,3,SiteC,1,0,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,II,9,SiteC,2,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,PMDA,II,6,SiteA,0,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,0
+Trulicity,North America,EMA,IV,3,SiteB,1,1,1,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,III,8,SiteA,1,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,EMA,IV,4,SiteA,4,0,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,7,SiteC,1,1,1,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,0
+Trulicity,Asia,EMA,I,10,SiteC,2,0,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Asia,FDA,IV,6,SiteA,2,1,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,IV,6,SiteA,1,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,II,3,SiteC,3,1,1,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,IV,4,SiteC,4,0,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,II,2,SiteA,0,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,0
+Trulicity,Asia,EMA,I,6,SiteC,2,1,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,II,6,SiteC,2,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,IV,5,SiteA,5,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,I,5,SiteA,2,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,EMA,III,5,SiteB,2,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,EMA,II,5,SiteA,4,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,I,5,SiteC,1,1,1,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,II,2,SiteA,4,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,I,3,SiteA,3,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,I,1,SiteA,6,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Asia,FDA,II,3,SiteB,0,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,0
+Trulicity,North America,FDA,III,3,SiteB,3,1,0,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,North America,EMA,I,5,SiteC,1,0,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,6,SiteB,1,1,1,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,EMA,I,5,SiteA,2,1,2,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,III,4,SiteB,2,1,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,FDA,III,5,SiteA,1,0,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,IV,6,SiteB,2,0,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,North America,PMDA,II,3,SiteB,3,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,III,1,SiteB,2,1,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,0
+Trulicity,North America,FDA,II,3,SiteA,2,1,0,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,IV,5,SiteB,4,0,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,II,5,SiteA,1,0,1,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,III,4,SiteA,0,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,II,3,SiteC,3,0,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Asia,FDA,III,5,SiteB,2,0,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,II,4,SiteC,5,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,North America,EMA,III,5,SiteC,3,1,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,III,9,SiteA,7,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,II,3,SiteB,1,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,North America,EMA,IV,6,SiteA,4,0,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,I,3,SiteA,1,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,IV,8,SiteB,2,0,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,II,5,SiteA,4,0,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,IV,5,SiteB,2,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,0
+Trulicity,North America,EMA,III,3,SiteB,0,1,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,I,5,SiteA,2,0,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,0
+Trulicity,North America,FDA,II,2,SiteA,2,0,1,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Europe,PMDA,II,4,SiteC,0,0,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,0
+Trulicity,North America,FDA,II,8,SiteA,1,1,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Asia,FDA,I,4,SiteB,3,1,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,North America,EMA,III,6,SiteC,0,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,II,8,SiteB,1,0,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,IV,2,SiteC,1,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,0
+Trulicity,North America,PMDA,II,3,SiteA,2,0,0,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,II,7,SiteA,0,1,0,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,0
+Trulicity,Asia,PMDA,II,4,SiteA,0,0,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,II,8,SiteB,0,1,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,0
+Trulicity,North America,FDA,III,4,SiteC,3,1,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,IV,4,SiteB,3,1,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,III,4,SiteC,0,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,IV,6,SiteA,2,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,0
+Trulicity,North America,EMA,II,7,SiteB,3,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,I,2,SiteA,5,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,III,5,SiteB,3,1,2,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,I,5,SiteA,1,0,1,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,III,5,SiteB,3,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,II,4,SiteB,2,1,1,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,III,6,SiteC,0,0,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,0
+Trulicity,Asia,PMDA,II,4,SiteA,2,1,1,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Europe,EMA,III,5,SiteC,4,0,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,0
+Trulicity,Europe,PMDA,II,4,SiteC,3,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,II,3,SiteA,2,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,IV,3,SiteB,3,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,0
+Trulicity,Europe,FDA,II,4,SiteC,3,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,0
+Trulicity,Europe,EMA,IV,3,SiteA,1,1,1,Inspection passed with no findings.,All procedures followed as per protocol.,0
+Trulicity,Europe,EMA,II,7,SiteB,1,1,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,0
+Trulicity,North America,EMA,I,7,SiteC,5,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,II,6,SiteC,2,1,1,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,I,5,SiteC,4,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,I,4,SiteB,4,1,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,0
+Trulicity,Asia,FDA,II,4,SiteC,2,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,0
+Trulicity,North America,FDA,I,7,SiteB,2,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,IV,6,SiteC,3,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,III,3,SiteA,4,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,II,4,SiteC,1,1,0,Non-compliance with SOPs in batch records.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,I,4,SiteA,2,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,North America,PMDA,II,4,SiteA,1,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,North America,EMA,IV,7,SiteA,6,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,II,6,SiteB,2,1,0,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,II,7,SiteA,2,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,I,3,SiteC,1,1,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,0
+Trulicity,Europe,FDA,IV,5,SiteB,4,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,III,5,SiteA,2,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,III,4,SiteB,3,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,I,5,SiteB,1,0,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,II,2,SiteB,4,0,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,I,6,SiteC,4,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,I,2,SiteA,0,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,I,3,SiteB,8,1,0,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,II,3,SiteB,3,0,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,Europe,FDA,IV,5,SiteB,2,1,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,0
+Trulicity,Asia,PMDA,I,0,SiteA,3,0,1,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,II,9,SiteB,0,1,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,North America,FDA,IV,4,SiteB,2,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,I,2,SiteC,2,1,1,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,III,5,SiteA,1,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,IV,3,SiteC,3,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,I,2,SiteA,2,1,0,Several minor documentation errors were found.,Excellent compliance observed at site.,0
+Trulicity,Europe,EMA,IV,5,SiteA,2,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,IV,5,SiteA,2,0,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,North America,FDA,IV,3,SiteC,3,1,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,IV,4,SiteC,3,1,0,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,North America,FDA,IV,2,SiteC,3,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,IV,9,SiteC,1,0,1,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,I,13,SiteB,2,0,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,III,4,SiteB,3,1,1,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,II,3,SiteB,0,1,1,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,IV,9,SiteA,3,1,1,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,II,2,SiteB,1,1,1,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,0
+Trulicity,North America,EMA,I,4,SiteA,1,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,IV,7,SiteC,0,0,0,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,III,3,SiteA,2,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Europe,EMA,II,4,SiteA,3,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,IV,7,SiteB,2,1,1,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Asia,PMDA,I,3,SiteC,4,0,2,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Asia,EMA,III,8,SiteC,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,North America,EMA,II,6,SiteB,2,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,II,6,SiteC,1,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,IV,8,SiteC,2,1,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,III,3,SiteC,4,0,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,III,6,SiteB,0,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,III,5,SiteC,3,0,1,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,III,8,SiteA,1,1,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,I,10,SiteA,2,1,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,III,2,SiteC,1,0,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,0
+Trulicity,Asia,FDA,II,4,SiteB,2,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,North America,FDA,II,6,SiteB,3,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,I,4,SiteB,3,1,1,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,II,6,SiteC,1,1,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,0
+Trulicity,North America,EMA,II,4,SiteC,1,1,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,0
+Trulicity,North America,FDA,III,7,SiteA,3,0,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,II,5,SiteB,5,0,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,EMA,I,1,SiteA,1,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,0
+Trulicity,Asia,PMDA,III,4,SiteA,3,1,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,IV,12,SiteB,1,1,0,Inspection passed with no findings.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,III,10,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,1
+Trulicity,Europe,EMA,I,4,SiteC,2,1,1,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,III,3,SiteA,0,1,0,Major issue flagged: unreported deviation found.,Review pending for last inspection round.,0
+Trulicity,Europe,EMA,III,6,SiteA,2,1,0,Several minor documentation errors were found.,All procedures followed as per protocol.,0
+Trulicity,North America,PMDA,I,6,SiteA,2,1,2,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,III,5,SiteA,1,1,1,Observed potential data integrity concerns.,Excellent compliance observed at site.,0
+Trulicity,North America,EMA,I,2,SiteB,4,1,1,Follow-up needed on previously reported issue.,No issues reported by QA team.,0
+Trulicity,North America,FDA,I,9,SiteA,5,0,0,Observed potential data integrity concerns.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,IV,6,SiteA,2,1,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,II,4,SiteC,1,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,II,6,SiteC,2,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,III,8,SiteC,3,1,0,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,FDA,III,2,SiteB,0,1,0,Follow-up needed on previously reported issue.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,IV,2,SiteB,1,1,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,0
+Trulicity,Europe,FDA,IV,6,SiteC,5,0,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,IV,6,SiteC,3,1,1,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,I,4,SiteA,0,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,0
+Trulicity,Europe,FDA,IV,9,SiteA,4,1,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,IV,3,SiteB,2,0,1,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,III,5,SiteB,2,0,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,IV,8,SiteA,1,0,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,I,5,SiteC,4,1,2,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,North America,EMA,I,5,SiteA,1,0,1,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,III,7,SiteB,1,1,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,0
+Trulicity,North America,PMDA,IV,4,SiteB,3,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,IV,6,SiteA,2,0,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,I,5,SiteA,2,0,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,0
+Trulicity,Asia,PMDA,IV,6,SiteA,1,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,IV,5,SiteB,2,1,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,North America,PMDA,IV,5,SiteC,2,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Asia,FDA,II,4,SiteA,1,1,0,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,1
+Trulicity,Asia,PMDA,III,4,SiteB,2,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Asia,FDA,II,5,SiteB,1,0,0,Untrained personnel observed during inspection.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,III,3,SiteB,3,1,0,Untrained personnel observed during inspection.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,I,5,SiteA,0,0,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,IV,7,SiteA,1,0,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,III,3,SiteC,2,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,0
+Trulicity,Europe,PMDA,II,0,SiteB,3,0,0,Several minor documentation errors were found.,Documentation not updated in real time.,0
+Trulicity,Asia,EMA,IV,5,SiteA,3,1,0,Major issue flagged: unreported deviation found.,Documentation not updated in real time.,0
+Trulicity,Asia,PMDA,I,4,SiteB,0,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,III,1,SiteB,1,1,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,0
+Trulicity,Europe,EMA,III,5,SiteC,2,1,0,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,0
+Trulicity,Europe,EMA,III,5,SiteA,0,0,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,0
+Trulicity,Europe,EMA,IV,3,SiteA,2,0,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,II,1,SiteB,3,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,0
+Trulicity,Europe,FDA,II,5,SiteB,2,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,III,11,SiteC,4,1,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,I,5,SiteC,2,0,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,I,5,SiteC,2,1,1,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,II,7,SiteC,0,1,0,Observed potential data integrity concerns.,Excellent compliance observed at site.,1
+Trulicity,Asia,PMDA,I,4,SiteC,0,1,1,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,0
+Trulicity,Asia,PMDA,II,1,SiteC,2,1,1,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,III,5,SiteB,1,1,1,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,II,7,SiteC,1,0,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,II,3,SiteB,3,1,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,III,3,SiteB,2,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Asia,PMDA,I,9,SiteA,4,0,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,II,1,SiteB,3,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Asia,EMA,II,6,SiteB,2,1,0,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,III,6,SiteC,1,0,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,I,5,SiteB,1,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,II,4,SiteC,2,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,North America,FDA,III,7,SiteC,5,1,1,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,EMA,II,7,SiteC,4,1,1,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,IV,6,SiteA,1,0,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,0
+Trulicity,North America,FDA,III,5,SiteC,0,1,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,I,3,SiteB,0,1,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,0
+Trulicity,North America,FDA,I,5,SiteC,5,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,I,3,SiteC,4,0,1,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,I,1,SiteC,2,0,1,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,II,2,SiteA,2,1,0,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,II,6,SiteB,4,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,I,4,SiteA,3,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,North America,PMDA,I,9,SiteB,6,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,PMDA,I,4,SiteA,0,1,0,Non-compliance with SOPs in batch records.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,II,6,SiteB,3,0,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,I,8,SiteA,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,I,5,SiteC,1,1,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Asia,PMDA,IV,3,SiteA,1,0,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,0
+Trulicity,Asia,EMA,IV,4,SiteA,5,1,1,Observed potential data integrity concerns.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,I,3,SiteC,6,1,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,Asia,PMDA,III,6,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,I,6,SiteB,2,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,IV,9,SiteB,0,0,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Asia,EMA,III,5,SiteB,0,1,0,Inspection passed with no findings.,No issues reported by QA team.,0
+Trulicity,Europe,PMDA,III,5,SiteA,4,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,I,3,SiteB,2,1,1,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,IV,8,SiteA,1,0,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,Asia,FDA,IV,6,SiteA,2,1,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,III,5,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,I,1,SiteB,0,0,1,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Europe,FDA,II,3,SiteA,2,1,1,Inspection passed with no findings.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,II,2,SiteC,2,0,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,IV,7,SiteC,0,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,0
+Trulicity,Asia,EMA,II,2,SiteA,2,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,IV,2,SiteB,1,1,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,North America,PMDA,IV,8,SiteA,3,1,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,North America,PMDA,IV,3,SiteA,4,1,0,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Europe,FDA,II,6,SiteB,4,1,0,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,IV,6,SiteC,2,1,0,Non-compliance with SOPs in batch records.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,III,2,SiteA,4,1,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,PMDA,I,5,SiteC,4,1,1,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,2,SiteC,2,0,0,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,IV,2,SiteB,2,1,0,Untrained personnel observed during inspection.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,I,5,SiteA,0,0,0,"No critical issues noted, routine inspection.",Deviation from protocol due to site issue.,0
+Trulicity,North America,EMA,II,4,SiteA,4,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,II,3,SiteC,3,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,0
+Trulicity,Europe,PMDA,I,5,SiteC,2,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,II,8,SiteB,3,0,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,I,7,SiteC,3,0,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,North America,FDA,I,5,SiteB,2,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,I,6,SiteA,6,0,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,IV,3,SiteB,1,1,1,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,North America,PMDA,I,5,SiteC,2,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,1
+Trulicity,Asia,EMA,IV,8,SiteA,2,0,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,0
+Trulicity,North America,EMA,I,5,SiteB,2,0,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,I,6,SiteA,3,0,1,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,I,5,SiteB,2,1,0,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,II,5,SiteC,3,1,1,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,North America,PMDA,IV,7,SiteC,1,1,1,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,FDA,IV,5,SiteA,1,1,0,Inspection passed with no findings.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,I,4,SiteA,0,0,0,Several minor documentation errors were found.,No issues reported by QA team.,1
+Trulicity,Europe,FDA,I,7,SiteA,6,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,II,6,SiteB,2,1,1,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Asia,EMA,II,9,SiteC,6,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,North America,EMA,II,4,SiteA,2,1,0,"No critical issues noted, routine inspection.",All procedures followed as per protocol.,1
+Trulicity,North America,EMA,IV,1,SiteA,1,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,0
+Trulicity,Europe,PMDA,IV,8,SiteA,1,1,0,"No critical issues noted, routine inspection.",Review pending for last inspection round.,1
+Trulicity,North America,PMDA,IV,5,SiteB,0,0,0,Several minor documentation errors were found.,All procedures followed as per protocol.,0
+Trulicity,North America,EMA,I,6,SiteA,2,1,0,Untrained personnel observed during inspection.,Documentation not updated in real time.,1
+Trulicity,Asia,PMDA,IV,5,SiteA,2,0,0,Follow-up needed on previously reported issue.,Review pending for last inspection round.,1
+Trulicity,North America,FDA,III,6,SiteB,5,1,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,III,8,SiteB,1,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,1
+Trulicity,Asia,FDA,II,2,SiteA,1,1,1,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,IV,4,SiteA,2,0,0,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,Europe,FDA,III,1,SiteB,2,1,1,Follow-up needed on previously reported issue.,No issues reported by QA team.,0
+Trulicity,Europe,PMDA,II,6,SiteC,2,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Europe,EMA,IV,8,SiteB,0,1,0,"No critical issues noted, routine inspection.",Training records incomplete for some staff.,1
+Trulicity,Asia,PMDA,I,7,SiteC,3,1,0,Major issue flagged: unreported deviation found.,Self-reported deviation under investigation.,1
+Trulicity,Europe,FDA,III,6,SiteA,3,0,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,I,4,SiteA,3,0,2,Several minor documentation errors were found.,All procedures followed as per protocol.,1
+Trulicity,North America,FDA,IV,3,SiteC,1,1,1,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,III,6,SiteB,3,1,0,"No critical issues noted, routine inspection.",Documentation not updated in real time.,1
+Trulicity,Europe,PMDA,IV,6,SiteA,1,0,0,Observed potential data integrity concerns.,Training records incomplete for some staff.,0
+Trulicity,Asia,EMA,I,3,SiteC,2,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,III,1,SiteB,2,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,0
+Trulicity,Asia,FDA,I,8,SiteC,1,1,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,IV,2,SiteB,5,1,0,Several minor documentation errors were found.,Training records incomplete for some staff.,0
+Trulicity,Asia,EMA,IV,5,SiteB,1,1,0,Major issue flagged: unreported deviation found.,No issues reported by QA team.,1
+Trulicity,Asia,FDA,I,4,SiteB,2,0,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,0
+Trulicity,Europe,EMA,III,6,SiteB,1,1,1,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,Asia,FDA,I,4,SiteC,4,1,1,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,IV,5,SiteC,2,0,0,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,North America,FDA,I,5,SiteC,1,1,1,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Europe,FDA,IV,6,SiteC,1,1,0,Observed potential data integrity concerns.,All procedures followed as per protocol.,1
+Trulicity,Europe,EMA,I,3,SiteC,1,1,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,FDA,III,5,SiteB,3,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Asia,FDA,III,5,SiteA,1,0,0,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,EMA,I,4,SiteA,1,0,0,Inspection passed with no findings.,Review pending for last inspection round.,1
+Trulicity,Asia,EMA,I,4,SiteC,3,1,1,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,North America,PMDA,III,4,SiteC,3,0,1,Untrained personnel observed during inspection.,Deviation from protocol due to site issue.,1
+Trulicity,Asia,EMA,IV,4,SiteA,2,1,0,Several minor documentation errors were found.,Documentation not updated in real time.,0
+Trulicity,North America,EMA,III,6,SiteB,0,0,1,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,IV,6,SiteC,1,1,0,Observed potential data integrity concerns.,Documentation not updated in real time.,0
+Trulicity,Asia,EMA,I,6,SiteB,2,1,0,Several minor documentation errors were found.,Deviation from protocol due to site issue.,1
+Trulicity,North America,EMA,I,7,SiteA,1,1,1,"No critical issues noted, routine inspection.",No issues reported by QA team.,1
+Trulicity,North America,EMA,IV,5,SiteA,0,1,0,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,I,8,SiteC,0,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,0
+Trulicity,Europe,PMDA,IV,4,SiteB,0,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,II,5,SiteC,2,0,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,Europe,EMA,III,1,SiteA,0,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,II,7,SiteB,0,0,0,"No critical issues noted, routine inspection.",Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,IV,5,SiteC,5,1,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,North America,PMDA,III,9,SiteC,3,1,0,Observed potential data integrity concerns.,Self-reported deviation under investigation.,1
+Trulicity,North America,FDA,IV,5,SiteC,1,0,0,Follow-up needed on previously reported issue.,Training records incomplete for some staff.,0
+Trulicity,Europe,PMDA,III,8,SiteA,0,1,0,Inspection passed with no findings.,All procedures followed as per protocol.,1
+Trulicity,Asia,PMDA,III,9,SiteC,2,0,1,Non-compliance with SOPs in batch records.,Training records incomplete for some staff.,1
+Trulicity,North America,EMA,III,5,SiteB,0,0,0,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,0
+Trulicity,North America,FDA,III,9,SiteC,1,1,0,Untrained personnel observed during inspection.,Self-reported deviation under investigation.,1
+Trulicity,Europe,EMA,IV,5,SiteA,1,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Asia,FDA,III,6,SiteC,2,1,0,Observed potential data integrity concerns.,No issues reported by QA team.,0
+Trulicity,Asia,PMDA,III,3,SiteA,2,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,II,5,SiteA,3,1,0,Inspection passed with no findings.,Documentation not updated in real time.,1
+Trulicity,Europe,FDA,I,5,SiteB,2,0,2,Follow-up needed on previously reported issue.,No issues reported by QA team.,1
+Trulicity,Asia,EMA,I,8,SiteB,2,1,0,Untrained personnel observed during inspection.,All procedures followed as per protocol.,1
+Trulicity,North America,EMA,II,7,SiteC,2,1,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,0
+Trulicity,Asia,EMA,II,8,SiteA,0,1,0,Follow-up needed on previously reported issue.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,EMA,IV,12,SiteA,2,0,0,Inspection passed with no findings.,Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,IV,2,SiteB,0,1,0,Inspection passed with no findings.,Review pending for last inspection round.,0
+Trulicity,North America,PMDA,IV,6,SiteB,0,1,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Europe,PMDA,II,4,SiteC,4,1,1,Major issue flagged: unreported deviation found.,Deviation from protocol due to site issue.,1
+Trulicity,Europe,PMDA,II,7,SiteA,2,0,0,Non-compliance with SOPs in batch records.,Self-reported deviation under investigation.,1
+Trulicity,Europe,PMDA,III,4,SiteB,3,0,1,Major issue flagged: unreported deviation found.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,IV,4,SiteC,4,1,0,Follow-up needed on previously reported issue.,All procedures followed as per protocol.,1
+Trulicity,Asia,EMA,IV,3,SiteA,4,0,0,Observed potential data integrity concerns.,Review pending for last inspection round.,1
+Trulicity,North America,EMA,IV,6,SiteA,1,1,0,Several minor documentation errors were found.,Self-reported deviation under investigation.,0
+Trulicity,Europe,EMA,I,6,SiteB,3,0,0,"No critical issues noted, routine inspection.",Excellent compliance observed at site.,1
+Trulicity,North America,PMDA,III,4,SiteC,1,1,1,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
+Trulicity,North America,PMDA,IV,7,SiteB,3,1,0,Several minor documentation errors were found.,Review pending for last inspection round.,1
+Trulicity,North America,PMDA,IV,6,SiteC,1,1,0,Inspection passed with no findings.,Deviation from protocol due to site issue.,1
+Trulicity,North America,FDA,IV,6,SiteA,2,1,1,Several minor documentation errors were found.,Excellent compliance observed at site.,1
+Trulicity,Europe,EMA,I,6,SiteC,3,0,1,Follow-up needed on previously reported issue.,Self-reported deviation under investigation.,1
+Trulicity,North America,EMA,I,2,SiteC,1,1,1,Major issue flagged: unreported deviation found.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,II,4,SiteC,4,0,1,Inspection passed with no findings.,Training records incomplete for some staff.,1
+Trulicity,Europe,EMA,III,2,SiteC,2,1,0,Major issue flagged: unreported deviation found.,Training records incomplete for some staff.,1
+Trulicity,Asia,EMA,II,4,SiteC,0,1,1,Non-compliance with SOPs in batch records.,Excellent compliance observed at site.,1
+Trulicity,Europe,PMDA,III,4,SiteB,1,1,0,Inspection passed with no findings.,Documentation not updated in real time.,0
+Trulicity,Asia,FDA,I,3,SiteC,0,1,1,Untrained personnel observed during inspection.,Review pending for last inspection round.,0
+Trulicity,Europe,FDA,IV,5,SiteC,1,0,1,Untrained personnel observed during inspection.,Training records incomplete for some staff.,1
+Trulicity,Europe,FDA,II,6,SiteA,4,1,0,Non-compliance with SOPs in batch records.,No issues reported by QA team.,1
+Trulicity,Europe,PMDA,IV,4,SiteC,2,1,1,Follow-up needed on previously reported issue.,Excellent compliance observed at site.,1
+Trulicity,Asia,EMA,II,4,SiteA,2,1,0,Follow-up needed on previously reported issue.,No issues reported by QA team.,0
+Trulicity,Asia,PMDA,I,2,SiteB,1,1,0,Several minor documentation errors were found.,No issues reported by QA team.,0
+Trulicity,North America,PMDA,I,9,SiteB,1,0,0,Non-compliance with SOPs in batch records.,Deviation from protocol due to site issue.,1
