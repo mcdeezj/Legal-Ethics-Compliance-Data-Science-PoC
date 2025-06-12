@@ -1,15 +1,11 @@
-scripts <- c("scripts/data_generation.R",
-             "scripts/model_training.R",
-             "scripts/output_analysis.R")
+rm(list = ls())
 
-for (script in scripts) {
-  cat("Running", script, "...\n")
-  tryCatch(
-    { source(script) },
-    error = function(e) {
-      cat("Error in", script, ":\n", e$message, "\n")
-      stop("Aborting pipeline.")
-    }
-  )
-}
-cat("Pipeline completed successfully.\n")
+require(tidyverse)
+require(caret)
+require(pROC)
+
+source("scripts/r/data_generation.R")
+source("scripts/r/model_training.R")
+source("scripts/r/output_analysis.R")
+
+

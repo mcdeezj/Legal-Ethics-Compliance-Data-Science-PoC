@@ -1,3 +1,7 @@
+#### In a non-notional scenario, this script would be replaced by executing SQL against company databases of record, RAG-enabled gathering, or manual methods ####
+#
+# Typically I handle data ingest and cleaning in separate scripts but this would be subject to company preferred practice and code efficiency.
+
 set.seed(42)
 n <- 1000
 
@@ -44,6 +48,5 @@ df <- data.frame(
   compliance_issue
 )
 
-dir.create("outputs", showWarnings = FALSE)
-write.csv(df, "outputs/synthetic_compliance_data.csv", row.names = FALSE)
+write.csv(df, "data/synthetic_compliance_data.csv", row.names = FALSE)
 

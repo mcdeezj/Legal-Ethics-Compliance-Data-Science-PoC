@@ -1,7 +1,6 @@
-library(caret)
-library(pROC)
+rm(list = ls())
 
-df <- read.csv("outputs/synthetic_compliance_data.csv")
+df <- read.csv("data/synthetic_compliance_data.csv")
 
 # Select relevant variables
 X <- df[, c("adverse_event_reports", "inspection_findings", "previous_violations", "compliance_training")]
